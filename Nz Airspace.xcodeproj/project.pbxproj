@@ -12,6 +12,9 @@
 		FD4E37291F9949DB00749358 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD4E37271F9949DB00749358 /* Main.storyboard */; };
 		FD4E372B1F9949DB00749358 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD4E372A1F9949DB00749358 /* Assets.xcassets */; };
 		FD4E372E1F9949DB00749358 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD4E372C1F9949DB00749358 /* LaunchScreen.storyboard */; };
+		FD4E373A1F994BE900749358 /* airspace.json in Resources */ = {isa = PBXBuildFile; fileRef = FD4E37391F994BE900749358 /* airspace.json */; };
+		FDCEEEB11F9964D300B6C6DC /* Airspace.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCEEEB01F9964D300B6C6DC /* Airspace.swift */; };
+		FDCEEEB31F9995D600B6C6DC /* AirspaceRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDCEEEB21F9995D600B6C6DC /* AirspaceRenderer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		FD4E372A1F9949DB00749358 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD4E372D1F9949DB00749358 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD4E372F1F9949DB00749358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD4E37391F994BE900749358 /* airspace.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = airspace.json; sourceTree = "<group>"; };
+		FDCEEEB01F9964D300B6C6DC /* Airspace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Airspace.swift; sourceTree = "<group>"; };
+		FDCEEEB21F9995D600B6C6DC /* AirspaceRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirspaceRenderer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,13 +61,40 @@
 			isa = PBXGroup;
 			children = (
 				FD4E37231F9949DB00749358 /* AppDelegate.swift */,
-				FD4E37251F9949DB00749358 /* ViewController.swift */,
 				FD4E37271F9949DB00749358 /* Main.storyboard */,
+				FD4E37381F994B3700749358 /* Model */,
+				FD4E37361F994B2000749358 /* Controllers */,
+				FD4E37351F994B0D00749358 /* Supporting Files */,
+			);
+			path = "Nz Airspace";
+			sourceTree = "<group>";
+		};
+		FD4E37351F994B0D00749358 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FD4E37391F994BE900749358 /* airspace.json */,
 				FD4E372A1F9949DB00749358 /* Assets.xcassets */,
 				FD4E372C1F9949DB00749358 /* LaunchScreen.storyboard */,
 				FD4E372F1F9949DB00749358 /* Info.plist */,
 			);
-			path = "Nz Airspace";
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FD4E37361F994B2000749358 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FD4E37251F9949DB00749358 /* ViewController.swift */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		FD4E37381F994B3700749358 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FDCEEEB01F9964D300B6C6DC /* Airspace.swift */,
+				FDCEEEB21F9995D600B6C6DC /* AirspaceRenderer.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD4E372E1F9949DB00749358 /* LaunchScreen.storyboard in Resources */,
+				FD4E373A1F994BE900749358 /* airspace.json in Resources */,
 				FD4E372B1F9949DB00749358 /* Assets.xcassets in Resources */,
 				FD4E37291F9949DB00749358 /* Main.storyboard in Resources */,
 			);
@@ -136,8 +170,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDCEEEB31F9995D600B6C6DC /* AirspaceRenderer.swift in Sources */,
 				FD4E37261F9949DB00749358 /* ViewController.swift in Sources */,
 				FD4E37241F9949DB00749358 /* AppDelegate.swift in Sources */,
+				FDCEEEB11F9964D300B6C6DC /* Airspace.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
