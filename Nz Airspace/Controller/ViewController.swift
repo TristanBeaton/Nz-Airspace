@@ -29,16 +29,19 @@ class ViewController: UIViewController {
         var array = Array<Dictionary<String,Any>>()
         
         for (key, value) in dict {
-            array.append(value)
-//            if key == "NZA149" { array.append(value) }
+//            array.append(value)
+            if key == "NZA936" { array.append(value) }
+            if key == "NZA937" { array.append(value) }
+            if key == "NZA938" { array.append(value) }
         }
-        
         let jsonArray = try! JSONSerialization.data(withJSONObject: array, options: .prettyPrinted)
-        
-        
         let airspaces = try! JSONDecoder().decode([Airspace].self, from: jsonArray)
         print(airspaces)
         self.map.addOverlays(airspaces)
+        
+        var airspaceBoundingMapRect = airspaces[0].boundingMapRect
+        airspaces.forEach { MKMapRectUnion(airspaceBoundingMapRect, $0.boundingMapRect) }
+        self.map.setVisibleMapRect(airspaceBoundingMapRect, animated: true)
     }
 
     override func didReceiveMemoryWarning() {

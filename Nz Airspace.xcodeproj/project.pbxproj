@@ -63,7 +63,7 @@
 				FD4E37231F9949DB00749358 /* AppDelegate.swift */,
 				FD4E37271F9949DB00749358 /* Main.storyboard */,
 				FD4E37381F994B3700749358 /* Model */,
-				FD4E37361F994B2000749358 /* Controllers */,
+				FDCEEEB41F99A37900B6C6DC /* Controller */,
 				FD4E37351F994B0D00749358 /* Supporting Files */,
 			);
 			path = "Nz Airspace";
@@ -80,14 +80,6 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		FD4E37361F994B2000749358 /* Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				FD4E37251F9949DB00749358 /* ViewController.swift */,
-			);
-			name = Controllers;
-			sourceTree = "<group>";
-		};
 		FD4E37381F994B3700749358 /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -95,6 +87,14 @@
 				FDCEEEB21F9995D600B6C6DC /* AirspaceRenderer.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		FDCEEEB41F99A37900B6C6DC /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FD4E37251F9949DB00749358 /* ViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
