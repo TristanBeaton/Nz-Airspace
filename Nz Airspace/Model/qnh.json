@@ -1,0 +1,526 @@
+[
+  {
+    "boundary": [
+      {
+        "latitude": -38.44825,
+        "longitude": -179.73308
+      },
+      {
+        "latitude": -40.71267,
+        "longitude": 177.70947
+      },
+      {
+        "latitude": -40.89828,
+        "longitude": 176.21686
+      },
+      {
+        "latitude": -40.97328,
+        "longitude": 175.6335
+      },
+      {
+        "latitude": -39.04992,
+        "longitude": 176.57103
+      },
+      {
+        "latitude": -38.4085,
+        "longitude": 177.55633
+      },
+      {
+        "latitude": -38.36933,
+        "longitude": 178.29133
+      }
+    ],
+    "id": "NZQ585",
+    "lower": 0,
+    "name": "Hawke Bay",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -39.04992,
+        "longitude": 176.57103
+      },
+      {
+        "latitude": -40.97328,
+        "longitude": 175.6335
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.99667
+      },
+      {
+        "angle": 230,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 200
+      },
+      {
+        "latitude": -39.34075,
+        "longitude": 174.28156
+      },
+      {
+        "latitude": -38.98964,
+        "longitude": 175.81408
+      }
+    ],
+    "id": "NZQ385",
+    "lower": 0,
+    "name": "Manawatu",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 99,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 200,
+        "start": 90
+      },
+      {
+        "latitude": -38.44825,
+        "longitude": -179.73308
+      },
+      {
+        "latitude": -38.36933,
+        "longitude": 178.29133
+      },
+      {
+        "latitude": -38.4085,
+        "longitude": 177.55633
+      },
+      {
+        "latitude": -39.04992,
+        "longitude": 176.57103
+      },
+      {
+        "latitude": -38.98964,
+        "longitude": 175.81408
+      },
+      {
+        "latitude": -37.59853,
+        "longitude": 175.63172
+      },
+      {
+        "latitude": -37.38146,
+        "longitude": 175.93161
+      },
+      {
+        "latitude": -37.07111,
+        "longitude": 176.25139
+      }
+    ],
+    "id": "NZQ289",
+    "lower": 0,
+    "name": "Thermal",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -37.59853,
+        "longitude": 175.63172
+      },
+      {
+        "latitude": -38.98964,
+        "longitude": 175.81408
+      },
+      {
+        "latitude": -39.34075,
+        "longitude": 174.28156
+      },
+      {
+        "clockwise": true,
+        "end": 246,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 200,
+        "start": 230
+      },
+      {
+        "latitude": -38.19778,
+        "longitude": 173.55944
+      },
+      {
+        "latitude": -37.78289,
+        "longitude": 174.41383
+      },
+      {
+        "latitude": -37.87209,
+        "longitude": 174.80632
+      }
+    ],
+    "id": "NZQ285",
+    "lower": 0,
+    "name": "King Country",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.75914,
+        "longitude": 172.74597
+      },
+      {
+        "latitude": -42.54931,
+        "longitude": 171.96244
+      },
+      {
+        "latitude": -42.94833,
+        "longitude": 171.56678
+      },
+      {
+        "latitude": -43.59333,
+        "longitude": 170.72844
+      },
+      {
+        "latitude": -43.10833,
+        "longitude": 170.26011
+      },
+      {
+        "latitude": -43.34036,
+        "longitude": 168.33833
+      },
+      {
+        "clockwise": true,
+        "end": 292,
+        "latitude": -41.317719,
+        "longitude": 174.864765,
+        "radius": 200,
+        "start": 268
+      },
+      {
+        "latitude": -41.23661,
+        "longitude": 172.10514
+      }
+    ],
+    "id": "NZQ785",
+    "lower": 0,
+    "name": "West Coast",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -45.90156,
+        "longitude": 171.35775
+      },
+      {
+        "latitude": -48.14844,
+        "longitude": 168.26669
+      },
+      {
+        "latitude": -45.91506,
+        "longitude": 165.30003
+      },
+      {
+        "latitude": -45.06336,
+        "longitude": 166.34439
+      },
+      {
+        "latitude": -45.16975,
+        "longitude": 166.59225
+      },
+      {
+        "latitude": -45.27669,
+        "longitude": 166.84006
+      },
+      {
+        "latitude": -45.61506,
+        "longitude": 167.65006
+      },
+      {
+        "latitude": -45.20322,
+        "longitude": 169.28297
+      },
+      {
+        "latitude": -44.83583,
+        "longitude": 169.8275
+      }
+    ],
+    "id": "NZQ787",
+    "lower": 0,
+    "name": "Otago",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -37.07111,
+        "longitude": 176.25139
+      },
+      {
+        "latitude": -37.38146,
+        "longitude": 175.93161
+      },
+      {
+        "latitude": -37.59853,
+        "longitude": 175.63172
+      },
+      {
+        "latitude": -37.87209,
+        "longitude": 174.80632
+      },
+      {
+        "latitude": -37.78289,
+        "longitude": 174.41383
+      },
+      {
+        "latitude": -38.19778,
+        "longitude": 173.55944
+      },
+      {
+        "clockwise": true,
+        "end": 90,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 200,
+        "start": 246
+      }
+    ],
+    "id": "NZQ185",
+    "lower": 0,
+    "name": "Northland",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -43.62231,
+        "longitude": 174.10719
+      },
+      {
+        "latitude": -45.90156,
+        "longitude": 171.35775
+      },
+      {
+        "latitude": -44.83583,
+        "longitude": 169.8275
+      },
+      {
+        "latitude": -44.30003,
+        "longitude": 170.60342
+      },
+      {
+        "latitude": -43.59333,
+        "longitude": 170.72844
+      },
+      {
+        "latitude": -42.94833,
+        "longitude": 171.56678
+      },
+      {
+        "latitude": -42.54931,
+        "longitude": 171.96244
+      },
+      {
+        "clockwise": true,
+        "end": 68,
+        "latitude": -43.5041,
+        "longitude": 172.51464,
+        "radius": 40,
+        "start": 1
+      }
+    ],
+    "id": "NZQ986",
+    "lower": 0,
+    "name": "Canterbury",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -43.10833,
+        "longitude": 170.26011
+      },
+      {
+        "latitude": -43.59333,
+        "longitude": 170.72844
+      },
+      {
+        "latitude": -44.30003,
+        "longitude": 170.60342
+      },
+      {
+        "latitude": -44.83583,
+        "longitude": 169.8275
+      },
+      {
+        "latitude": -44.73392,
+        "longitude": 169.75092
+      },
+      {
+        "latitude": -44.58836,
+        "longitude": 169.64258
+      },
+      {
+        "latitude": -44.10806,
+        "longitude": 169.35508
+      },
+      {
+        "latitude": -43.34036,
+        "longitude": 168.33833
+      }
+    ],
+    "id": "NZQ985",
+    "lower": 0,
+    "name": "Ohau",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.71267,
+        "longitude": 177.70947
+      },
+      {
+        "latitude": -42.18956,
+        "longitude": 175.8625
+      },
+      {
+        "latitude": -41.73397,
+        "longitude": 174.27236
+      },
+      {
+        "latitude": -41.75914,
+        "longitude": 172.74597
+      },
+      {
+        "latitude": -41.23661,
+        "longitude": 172.10514
+      },
+      {
+        "clockwise": true,
+        "end": 310,
+        "latitude": -41.317719,
+        "longitude": 174.864765,
+        "radius": 200,
+        "start": 292
+      },
+      {
+        "angle": 230,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 200
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.99667
+      },
+      {
+        "latitude": -40.97328,
+        "longitude": 175.6335
+      },
+      {
+        "latitude": -40.89828,
+        "longitude": 176.21686
+      }
+    ],
+    "id": "NZQ685",
+    "lower": 0,
+    "name": "Cook Strait",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -44.83583,
+        "longitude": 169.8275
+      },
+      {
+        "latitude": -45.20322,
+        "longitude": 169.28297
+      },
+      {
+        "latitude": -45.61506,
+        "longitude": 167.65006
+      },
+      {
+        "latitude": -45.27669,
+        "longitude": 166.84006
+      },
+      {
+        "latitude": -45.16975,
+        "longitude": 166.59225
+      },
+      {
+        "latitude": -45.06336,
+        "longitude": 166.34439
+      },
+      {
+        "latitude": -43.34036,
+        "longitude": 168.33833
+      },
+      {
+        "latitude": -44.10806,
+        "longitude": 169.35508
+      },
+      {
+        "latitude": -44.58836,
+        "longitude": 169.64258
+      },
+      {
+        "latitude": -44.73392,
+        "longitude": 169.75092
+      }
+    ],
+    "id": "NZQ786",
+    "lower": 0,
+    "name": "Fiordland",
+    "type": "QNH",
+    "upper": 13000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -42.18956,
+        "longitude": 175.8625
+      },
+      {
+        "latitude": -42.85667,
+        "longitude": 175.05017
+      },
+      {
+        "latitude": -43.62231,
+        "longitude": 174.10719
+      },
+      {
+        "clockwise": false,
+        "end": 1,
+        "latitude": -43.5041,
+        "longitude": 172.51464,
+        "radius": 40,
+        "start": 68
+      },
+      {
+        "latitude": -42.54931,
+        "longitude": 171.96244
+      },
+      {
+        "latitude": -41.75914,
+        "longitude": 172.74597
+      },
+      {
+        "latitude": -41.73397,
+        "longitude": 174.27236
+      }
+    ],
+    "id": "NZQ885",
+    "lower": 0,
+    "name": "Clarence",
+    "type": "QNH",
+    "upper": 13000
+  }
+]

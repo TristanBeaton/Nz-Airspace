@@ -9,8 +9,9 @@
 import Foundation
 import MapKit
 
-class Airspace : NSObject, MKOverlay, Decodable {
+class Airspace : NSObject, MKOverlay, Codable {
     
+    // Properties
     var id: String
     var name: String
     var lower: Int
@@ -19,6 +20,7 @@ class Airspace : NSObject, MKOverlay, Decodable {
     var discriptors: Array<PathDescription>
     var boundary: Array<MKMapPoint>
     
+    // MKOverlay Properties
     var boundingMapRect: MKMapRect {
         var rect = MKMapRectNull
         for point in boundary {
@@ -36,6 +38,7 @@ class Airspace : NSObject, MKOverlay, Decodable {
         return MKCoordinateForMapPoint(MKMapPointMake(MKMapRectGetMidX(boundingMapRect), MKMapRectGetMidY(boundingMapRect)))
     }
     
+    // Default Color
     var color: UIColor {
         switch type.components(separatedBy: "/")[0] {
             case "CTA": return UIColor(red: 129/255, green: 044/255, blue: 124/255, alpha: 1.0)
@@ -45,7 +48,8 @@ class Airspace : NSObject, MKOverlay, Decodable {
         }
     }
     
-    enum PathDescription : Decodable {
+    // Codable Protocol
+    enum PathDescription : Codable {
         case line(coordinate:CLLocationCoordinate2D)
         case point(coordinate:CLLocationCoordinate2D, angle:Int, radius:Double)
         case arc(coordinate:CLLocationCoordinate2D, start:Int, end:Int, radius:Double, clockwise:Bool)
@@ -81,6 +85,31 @@ class Airspace : NSObject, MKOverlay, Decodable {
             }
             // This must just be a line
             self = .line(coordinate: coordinate)
+        }
+        
+        func encode(to encoder: Encoder) throws {
+            var container = encoder.container(keyedBy: CodingKeys.self)
+            // Encode Descriptor
+            switch self {
+            // Encode Line
+            case .line(let coordinate):
+                try container.encode(round(coordinate.latitude * 1000000) / 1000000, forKey: .latitude)
+                try container.encode(round(coordinate.longitude * 1000000) / 1000000, forKey: .longitude)
+            // Encode Point
+            case .point(let coordinate, let angle, let radius):
+                try container.encode(round(coordinate.latitude * 1000000) / 1000000, forKey: .latitude)
+                try container.encode(round(coordinate.longitude * 1000000) / 1000000, forKey: .longitude)
+                try container.encode(angle, forKey: .angle)
+                try container.encode(radius, forKey: .radius)
+            // Encode Arc
+            case .arc(let coordinate, let start, let end, let radius, let clockwise):
+                try container.encode(round(coordinate.latitude * 1000000) / 1000000, forKey: .latitude)
+                try container.encode(round(coordinate.longitude * 1000000) / 1000000, forKey: .longitude)
+                try container.encode(start, forKey: .start)
+                try container.encode(end, forKey: .end)
+                try container.encode(radius, forKey: .radius)
+                try container.encode(clockwise, forKey: .clockwise)
+            }
         }
     }
     
@@ -170,5 +199,15 @@ class Airspace : NSObject, MKOverlay, Decodable {
                 }
             }
         }
+    }
+    
+    func encode(to encoder: Encoder) throws {
+        var container = encoder.container(keyedBy: CodingKeys.self)
+        try container.encode(id, forKey: .id)
+        try container.encode(name, forKey: .name)
+        try container.encode(lower, forKey: .lower)
+        try container.encode(upper, forKey: .upper)
+        try container.encode(type, forKey: .type)
+        try container.encode(discriptors, forKey: .boundary)
     }
 }

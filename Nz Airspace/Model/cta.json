@@ -1,0 +1,5514 @@
+[
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 276,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 30,
+        "start": 195
+      },
+      {
+        "clockwise": false,
+        "end": 195,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 20,
+        "start": 276
+      }
+    ],
+    "id": "NZA541",
+    "lower": 6500,
+    "name": "Napier",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.90483,
+        "longitude": 174.30581
+      },
+      {
+        "latitude": -40.995,
+        "longitude": 174.31364
+      },
+      {
+        "latitude": -41.15411,
+        "longitude": 174.20036
+      },
+      {
+        "latitude": -41.29611,
+        "longitude": 174.00217
+      },
+      {
+        "latitude": -41.37172,
+        "longitude": 173.94092
+      },
+      {
+        "latitude": -41.44442,
+        "longitude": 173.88181
+      },
+      {
+        "latitude": -41.45053,
+        "longitude": 173.77739
+      },
+      {
+        "latitude": -41.45128,
+        "longitude": 173.71958
+      },
+      {
+        "latitude": -41.44697,
+        "longitude": 173.60314
+      },
+      {
+        "clockwise": false,
+        "end": 9,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 25,
+        "start": 61
+      },
+      {
+        "latitude": -40.83139,
+        "longitude": 173.32997
+      }
+    ],
+    "id": "NZA632",
+    "lower": 5500,
+    "name": "Christchurch",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -45.20372,
+        "longitude": 168.25667
+      },
+      {
+        "latitude": -45.36919,
+        "longitude": 168.38917
+      },
+      {
+        "latitude": -45.48197,
+        "longitude": 168.29556
+      },
+      {
+        "latitude": -45.58272,
+        "longitude": 168.27156
+      },
+      {
+        "latitude": -45.75344,
+        "longitude": 168.39553
+      },
+      {
+        "latitude": -45.84392,
+        "longitude": 168.23108
+      },
+      {
+        "latitude": -45.44186,
+        "longitude": 168.24703
+      }
+    ],
+    "id": "NZA729",
+    "lower": 13500,
+    "name": "Queenstown",
+    "type": "CTA/C",
+    "upper": 17500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 215,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35,
+        "start": 239
+      },
+      {
+        "clockwise": true,
+        "end": 241,
+        "latitude": -37.004813,
+        "longitude": 174.815979,
+        "radius": 45,
+        "start": 210
+      }
+    ],
+    "id": "NZA247",
+    "lower": 6500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.08972,
+        "longitude": 175.0975
+      },
+      {
+        "latitude": -41.13906,
+        "longitude": 175.09222
+      },
+      {
+        "latitude": -41.17536,
+        "longitude": 175.08733
+      },
+      {
+        "latitude": -41.27456,
+        "longitude": 174.95486
+      },
+      {
+        "clockwise": true,
+        "end": 267,
+        "latitude": -41.408056,
+        "longitude": 174.800278,
+        "radius": 5,
+        "start": 101
+      },
+      {
+        "clockwise": false,
+        "end": 133,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 15,
+        "start": 231
+      },
+      {
+        "clockwise": true,
+        "end": 188,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 25,
+        "start": 131
+      },
+      {
+        "latitude": -41.60692,
+        "longitude": 174.166
+      },
+      {
+        "latitude": -41.57378,
+        "longitude": 174.14839
+      },
+      {
+        "latitude": -41.55803,
+        "longitude": 174.14711
+      },
+      {
+        "latitude": -41.5,
+        "longitude": 174.13333
+      },
+      {
+        "latitude": -41.44022,
+        "longitude": 174.02933
+      },
+      {
+        "latitude": -41.43956,
+        "longitude": 173.965
+      },
+      {
+        "latitude": -41.39189,
+        "longitude": 174.04683
+      },
+      {
+        "latitude": -41.34447,
+        "longitude": 174.12828
+      },
+      {
+        "angle": 269,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 25
+      },
+      {
+        "clockwise": true,
+        "end": 307,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 20,
+        "start": 269
+      },
+      {
+        "clockwise": true,
+        "end": 10,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 25,
+        "start": 307
+      },
+      {
+        "latitude": -41.03475,
+        "longitude": 174.93369
+      }
+    ],
+    "id": "NZA637",
+    "lower": 2500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.28669,
+        "longitude": 175.26831
+      },
+      {
+        "latitude": -41.43192,
+        "longitude": 175.21692
+      },
+      {
+        "latitude": -41.55825,
+        "longitude": 175.14761
+      },
+      {
+        "angle": 133,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 15
+      },
+      {
+        "angle": 101,
+        "latitude": -41.408056,
+        "longitude": 174.800278,
+        "radius": 5
+      },
+      {
+        "latitude": -41.27456,
+        "longitude": 174.95486
+      },
+      {
+        "latitude": -41.17536,
+        "longitude": 175.08733
+      },
+      {
+        "latitude": -41.25075,
+        "longitude": 175.21392
+      }
+    ],
+    "id": "NZA640",
+    "lower": 4500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.39292,
+        "longitude": 173.22211
+      },
+      {
+        "clockwise": true,
+        "end": 216,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 20,
+        "start": 180
+      },
+      {
+        "angle": 216,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 10
+      },
+      {
+        "latitude": -41.41044,
+        "longitude": 173.18275
+      }
+    ],
+    "id": "NZA647",
+    "lower": 6500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.85342,
+        "longitude": 174.68242
+      },
+      {
+        "clockwise": true,
+        "end": 240,
+        "latitude": -41.337222,
+        "longitude": 174.816944,
+        "radius": 45,
+        "start": 193
+      },
+      {
+        "latitude": -41.70767,
+        "longitude": 173.81628
+      },
+      {
+        "latitude": -41.61575,
+        "longitude": 173.81614
+      },
+      {
+        "latitude": -41.60808,
+        "longitude": 174.05381
+      },
+      {
+        "latitude": -41.64511,
+        "longitude": 174.07344
+      },
+      {
+        "latitude": -41.67275,
+        "longitude": 174.07433
+      },
+      {
+        "latitude": -41.73389,
+        "longitude": 174.2725
+      }
+    ],
+    "id": "NZA657",
+    "lower": 5500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "angle": 61,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 25
+      },
+      {
+        "latitude": -41.44697,
+        "longitude": 173.60314
+      },
+      {
+        "latitude": -41.477,
+        "longitude": 173.57083
+      },
+      {
+        "latitude": -41.35075,
+        "longitude": 173.31656
+      },
+      {
+        "latitude": -41.41044,
+        "longitude": 173.18275
+      },
+      {
+        "clockwise": true,
+        "end": 61,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 10,
+        "start": 216
+      }
+    ],
+    "id": "NZA646",
+    "lower": 5500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 216,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 20,
+        "start": 273
+      },
+      {
+        "clockwise": true,
+        "end": 273,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 28,
+        "start": 216
+      }
+    ],
+    "id": "NZA840",
+    "lower": 5500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 113,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 25,
+        "start": 19
+      },
+      {
+        "latitude": -37.11681,
+        "longitude": 175.21139
+      },
+      {
+        "latitude": -37.08622,
+        "longitude": 175.15464
+      },
+      {
+        "clockwise": false,
+        "end": 33,
+        "latitude": -37.003195,
+        "longitude": 174.812037,
+        "radius": 20,
+        "start": 91
+      },
+      {
+        "clockwise": false,
+        "end": 57,
+        "latitude": -36.790616,
+        "longitude": 174.626562,
+        "radius": 20,
+        "start": 78
+      }
+    ],
+    "id": "NZA143",
+    "lower": 3500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -44.96897,
+        "longitude": 169.47678
+      },
+      {
+        "latitude": -45.33478,
+        "longitude": 169.16169
+      },
+      {
+        "latitude": -45.46819,
+        "longitude": 169.04647
+      },
+      {
+        "latitude": -45.59142,
+        "longitude": 168.90489
+      },
+      {
+        "latitude": -45.29756,
+        "longitude": 168.78192
+      },
+      {
+        "latitude": -45.2155,
+        "longitude": 168.78647
+      },
+      {
+        "latitude": -45.15689,
+        "longitude": 168.79233
+      },
+      {
+        "latitude": -45.05458,
+        "longitude": 168.80258
+      },
+      {
+        "latitude": -45.04344,
+        "longitude": 168.83425
+      },
+      {
+        "latitude": -45.04644,
+        "longitude": 168.86636
+      },
+      {
+        "latitude": -45.07511,
+        "longitude": 169.00253
+      },
+      {
+        "latitude": -45.07928,
+        "longitude": 169.02225
+      },
+      {
+        "latitude": -45.07336,
+        "longitude": 169.09833
+      },
+      {
+        "latitude": -45.01747,
+        "longitude": 169.12633
+      }
+    ],
+    "id": "NZA942",
+    "lower": 13500,
+    "name": "Queenstown",
+    "type": "CTA/C",
+    "upper": 17500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 91,
+        "latitude": -37.004633,
+        "longitude": 174.813631,
+        "radius": 15,
+        "start": 32
+      },
+      {
+        "latitude": -37.00128,
+        "longitude": 175.02833
+      },
+      {
+        "latitude": -36.997213,
+        "longitude": 174.97786
+      },
+      {
+        "latitude": -36.99739,
+        "longitude": 174.975965
+      },
+      {
+        "latitude": -36.998317,
+        "longitude": 174.969623
+      },
+      {
+        "latitude": -36.998454,
+        "longitude": 174.968816
+      },
+      {
+        "latitude": -36.998547,
+        "longitude": 174.968453
+      },
+      {
+        "latitude": -37.00076,
+        "longitude": 174.96227
+      },
+      {
+        "latitude": -37.001329,
+        "longitude": 174.960714
+      },
+      {
+        "latitude": -37.001467,
+        "longitude": 174.96041
+      },
+      {
+        "latitude": -37.001861,
+        "longitude": 174.959697
+      },
+      {
+        "latitude": -37.002038,
+        "longitude": 174.959306
+      },
+      {
+        "latitude": -37.002516,
+        "longitude": 174.957993
+      },
+      {
+        "latitude": -37.002712,
+        "longitude": 174.957526
+      },
+      {
+        "latitude": -37.002816,
+        "longitude": 174.957337
+      },
+      {
+        "latitude": -37.00297,
+        "longitude": 174.95713
+      },
+      {
+        "latitude": -37.003223,
+        "longitude": 174.95688
+      },
+      {
+        "latitude": -37.003627,
+        "longitude": 174.956548
+      },
+      {
+        "latitude": -37.006,
+        "longitude": 174.954665
+      },
+      {
+        "latitude": -37.006501,
+        "longitude": 174.954286
+      },
+      {
+        "latitude": -37.007252,
+        "longitude": 174.953791
+      },
+      {
+        "latitude": -37.010497,
+        "longitude": 174.951738
+      },
+      {
+        "latitude": -37.011971,
+        "longitude": 174.950835
+      },
+      {
+        "latitude": -37.012188,
+        "longitude": 174.950692
+      },
+      {
+        "latitude": -37.012429,
+        "longitude": 174.950457
+      },
+      {
+        "latitude": -37.012611,
+        "longitude": 174.950176
+      },
+      {
+        "latitude": -37.012796,
+        "longitude": 174.949756
+      },
+      {
+        "latitude": -37.013065,
+        "longitude": 174.949081
+      },
+      {
+        "latitude": -37.01372,
+        "longitude": 174.947337
+      },
+      {
+        "latitude": -37.015855,
+        "longitude": 174.941401
+      },
+      {
+        "latitude": -37.04319,
+        "longitude": 174.93011
+      },
+      {
+        "latitude": -37.07708,
+        "longitude": 174.92825
+      },
+      {
+        "latitude": -37.16489,
+        "longitude": 174.90017
+      },
+      {
+        "latitude": -37.23158,
+        "longitude": 174.90019
+      },
+      {
+        "clockwise": true,
+        "end": 260,
+        "latitude": -37.004633,
+        "longitude": 174.813631,
+        "radius": 15,
+        "start": 162
+      },
+      {
+        "latitude": -36.99836,
+        "longitude": 174.5955
+      },
+      {
+        "latitude": -36.96244,
+        "longitude": 174.61483
+      },
+      {
+        "latitude": -36.926,
+        "longitude": 174.70686
+      },
+      {
+        "latitude": -36.91225,
+        "longitude": 174.85833
+      },
+      {
+        "latitude": -36.86189,
+        "longitude": 174.88217
+      },
+      {
+        "latitude": -36.84653,
+        "longitude": 174.90186
+      }
+    ],
+    "id": "NZA141",
+    "lower": 1500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 360,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 15,
+        "start": 0
+      }
+    ],
+    "id": "NZA737",
+    "lower": 1500,
+    "name": "Invercargill",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.64639,
+        "longitude": 175.70544
+      },
+      {
+        "latitude": -40.676,
+        "longitude": 175.65
+      },
+      {
+        "latitude": -40.68603,
+        "longitude": 175.46694
+      },
+      {
+        "latitude": -40.66983,
+        "longitude": 175.35711
+      },
+      {
+        "latitude": -40.60222,
+        "longitude": 175.49614
+      },
+      {
+        "latitude": -40.60975,
+        "longitude": 175.53322
+      },
+      {
+        "latitude": -40.62275,
+        "longitude": 175.59619
+      }
+    ],
+    "id": "NZA340",
+    "lower": 4500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 269,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 20,
+        "start": 307
+      },
+      {
+        "clockwise": true,
+        "end": 307,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 25,
+        "start": 269
+      }
+    ],
+    "id": "NZA643",
+    "lower": 3500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -37.48728,
+        "longitude": 175.36483
+      },
+      {
+        "latitude": -37.658,
+        "longitude": 175.52786
+      },
+      {
+        "latitude": -37.7905,
+        "longitude": 175.56186
+      },
+      {
+        "latitude": -38.02189,
+        "longitude": 175.48686
+      },
+      {
+        "latitude": -38.14917,
+        "longitude": 175.41931
+      },
+      {
+        "latitude": -38.18703,
+        "longitude": 175.21094
+      },
+      {
+        "latitude": -38.07261,
+        "longitude": 175.11331
+      },
+      {
+        "latitude": -37.99433,
+        "longitude": 175.15422
+      },
+      {
+        "latitude": -37.98169,
+        "longitude": 175.14803
+      },
+      {
+        "latitude": -37.95908,
+        "longitude": 175.07833
+      },
+      {
+        "latitude": -37.66192,
+        "longitude": 175.12472
+      },
+      {
+        "latitude": -37.56194,
+        "longitude": 175.15847
+      },
+      {
+        "latitude": -37.53881,
+        "longitude": 175.23578
+      },
+      {
+        "latitude": -37.51325,
+        "longitude": 175.32081
+      }
+    ],
+    "id": "NZA248",
+    "lower": 2500,
+    "name": "Hamilton",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.13819,
+        "longitude": 175.66061
+      },
+      {
+        "latitude": -40.02533,
+        "longitude": 175.36675
+      },
+      {
+        "latitude": -40.024764,
+        "longitude": 175.365756
+      },
+      {
+        "latitude": -40.022651,
+        "longitude": 175.361716
+      },
+      {
+        "latitude": -40.020468,
+        "longitude": 175.356825
+      },
+      {
+        "latitude": -40.018179,
+        "longitude": 175.351699
+      },
+      {
+        "latitude": -40.016314,
+        "longitude": 175.347526
+      },
+      {
+        "latitude": -40.01404,
+        "longitude": 175.341743
+      },
+      {
+        "latitude": -40.012631,
+        "longitude": 175.337928
+      },
+      {
+        "latitude": -40.010713,
+        "longitude": 175.332727
+      },
+      {
+        "latitude": -40.009441,
+        "longitude": 175.32928
+      },
+      {
+        "latitude": -40.008399,
+        "longitude": 175.325673
+      },
+      {
+        "latitude": -40.007298,
+        "longitude": 175.321858
+      },
+      {
+        "latitude": -40.005591,
+        "longitude": 175.317536
+      },
+      {
+        "latitude": -40.003596,
+        "longitude": 175.314031
+      },
+      {
+        "latitude": -40.001384,
+        "longitude": 175.310143
+      },
+      {
+        "latitude": -39.997185,
+        "longitude": 175.304365
+      },
+      {
+        "latitude": -39.994035,
+        "longitude": 175.300439
+      },
+      {
+        "latitude": -39.99143,
+        "longitude": 175.297196
+      },
+      {
+        "latitude": -39.988479,
+        "longitude": 175.294264
+      },
+      {
+        "latitude": -39.98594,
+        "longitude": 175.29067
+      },
+      {
+        "latitude": -39.98387,
+        "longitude": 175.28679
+      },
+      {
+        "latitude": -39.981763,
+        "longitude": 175.282846
+      },
+      {
+        "latitude": -39.980516,
+        "longitude": 175.280337
+      },
+      {
+        "latitude": -39.978786,
+        "longitude": 175.276861
+      },
+      {
+        "clockwise": true,
+        "end": 57,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 15,
+        "start": 339
+      }
+    ],
+    "id": "NZA338",
+    "lower": 2500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -42.61911,
+        "longitude": 174.30853
+      },
+      {
+        "clockwise": false,
+        "end": 31,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 40,
+        "start": 59
+      },
+      {
+        "clockwise": false,
+        "end": 193,
+        "latitude": -41.337222,
+        "longitude": 174.816944,
+        "radius": 45,
+        "start": 229
+      }
+    ],
+    "id": "NZA833",
+    "lower": 7500,
+    "name": "Christchurch",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 126,
+        "latitude": -40.32025,
+        "longitude": 175.63785,
+        "radius": 28,
+        "start": 74
+      },
+      {
+        "clockwise": false,
+        "end": 76,
+        "latitude": -40.32025,
+        "longitude": 175.63785,
+        "radius": 16,
+        "start": 127
+      },
+      {
+        "angle": 75,
+        "latitude": -40.32025,
+        "longitude": 175.63785,
+        "radius": 12
+      },
+      {
+        "latitude": -40.28583,
+        "longitude": 175.77153
+      },
+      {
+        "latitude": -40.27911,
+        "longitude": 175.75658
+      },
+      {
+        "latitude": -40.05911,
+        "longitude": 175.77972
+      },
+      {
+        "latitude": -39.99169,
+        "longitude": 175.72719
+      },
+      {
+        "clockwise": false,
+        "end": 5,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 24,
+        "start": 31
+      },
+      {
+        "latitude": -39.69742,
+        "longitude": 175.3695
+      },
+      {
+        "clockwise": true,
+        "end": 35,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 31,
+        "start": 17
+      },
+      {
+        "latitude": -40.17358,
+        "longitude": 175.91853
+      },
+      {
+        "latitude": -40.19683,
+        "longitude": 175.94683
+      }
+    ],
+    "id": "NZA346",
+    "lower": 4500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 296,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 10,
+        "start": 354
+      },
+      {
+        "clockwise": true,
+        "end": 354,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 14.5,
+        "start": 296
+      }
+    ],
+    "id": "NZA441",
+    "lower": 3000,
+    "name": "Napier",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -39.23031,
+        "longitude": 174.91544
+      },
+      {
+        "clockwise": false,
+        "end": 310,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 38,
+        "start": 324
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.87544
+      },
+      {
+        "latitude": -40.90483,
+        "longitude": 174.30581
+      },
+      {
+        "latitude": -39.73036,
+        "longitude": 174.52956
+      },
+      {
+        "angle": 164,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 21
+      },
+      {
+        "clockwise": true,
+        "end": 266,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 13.5,
+        "start": 164
+      },
+      {
+        "latitude": -39.00725,
+        "longitude": 174.18394
+      }
+    ],
+    "id": "NZA349",
+    "lower": 6500,
+    "name": "Christchurch",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -45.29756,
+        "longitude": 168.78192
+      },
+      {
+        "latitude": -45.59142,
+        "longitude": 168.90489
+      },
+      {
+        "latitude": -45.70225,
+        "longitude": 168.86306
+      },
+      {
+        "latitude": -45.75886,
+        "longitude": 168.75775
+      },
+      {
+        "latitude": -45.80811,
+        "longitude": 168.71336
+      },
+      {
+        "latitude": -45.75344,
+        "longitude": 168.39553
+      },
+      {
+        "latitude": -45.58272,
+        "longitude": 168.27156
+      },
+      {
+        "latitude": -45.48197,
+        "longitude": 168.29556
+      },
+      {
+        "latitude": -45.36919,
+        "longitude": 168.38917
+      },
+      {
+        "latitude": -45.20372,
+        "longitude": 168.25667
+      },
+      {
+        "latitude": -45.22186,
+        "longitude": 168.30967
+      },
+      {
+        "latitude": -45.31119,
+        "longitude": 168.56639
+      }
+    ],
+    "id": "NZA730",
+    "lower": 9500,
+    "name": "Queenstown",
+    "type": "CTA/C",
+    "upper": 17500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 273,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 20,
+        "start": 216
+      },
+      {
+        "clockwise": false,
+        "end": 216,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 15,
+        "start": 273
+      }
+    ],
+    "id": "NZA645",
+    "lower": 3500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -44.51853,
+        "longitude": 169.59283
+      },
+      {
+        "latitude": -44.73331,
+        "longitude": 169.74503
+      },
+      {
+        "latitude": -44.89811,
+        "longitude": 169.66125
+      },
+      {
+        "latitude": -44.96792,
+        "longitude": 169.48067
+      },
+      {
+        "latitude": -45.01747,
+        "longitude": 169.12633
+      },
+      {
+        "latitude": -44.93164,
+        "longitude": 169.13019
+      },
+      {
+        "latitude": -44.87156,
+        "longitude": 169.28333
+      },
+      {
+        "latitude": -44.79658,
+        "longitude": 169.23425
+      },
+      {
+        "latitude": -44.81544,
+        "longitude": 169.11842
+      },
+      {
+        "latitude": -44.87583,
+        "longitude": 168.96186
+      },
+      {
+        "latitude": -44.86908,
+        "longitude": 168.80794
+      },
+      {
+        "latitude": -44.91581,
+        "longitude": 168.73972
+      },
+      {
+        "latitude": -44.92619,
+        "longitude": 168.72586
+      },
+      {
+        "latitude": -44.96375,
+        "longitude": 168.65089
+      },
+      {
+        "latitude": -45.00031,
+        "longitude": 168.56756
+      },
+      {
+        "latitude": -45.00614,
+        "longitude": 168.22075
+      },
+      {
+        "latitude": -44.97092,
+        "longitude": 168.22744
+      },
+      {
+        "latitude": -44.93461,
+        "longitude": 168.36272
+      },
+      {
+        "latitude": -44.93606,
+        "longitude": 168.44153
+      },
+      {
+        "latitude": -44.81236,
+        "longitude": 168.49633
+      },
+      {
+        "latitude": -44.67711,
+        "longitude": 168.38492
+      },
+      {
+        "latitude": -44.63567,
+        "longitude": 168.46089
+      },
+      {
+        "latitude": -44.76778,
+        "longitude": 168.62258
+      },
+      {
+        "latitude": -44.75222,
+        "longitude": 168.73239
+      },
+      {
+        "latitude": -44.61353,
+        "longitude": 169.05178
+      },
+      {
+        "latitude": -44.69258,
+        "longitude": 169.14561
+      }
+    ],
+    "id": "NZA742",
+    "lower": 9500,
+    "name": "Queenstown",
+    "type": "CTA/C",
+    "upper": 17500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 332,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 15,
+        "start": 61
+      },
+      {
+        "clockwise": true,
+        "end": 61,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 25,
+        "start": 332
+      }
+    ],
+    "id": "NZA653",
+    "lower": 3500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -38.95117,
+        "longitude": 178.17761
+      },
+      {
+        "latitude": -39.07964,
+        "longitude": 177.90772
+      },
+      {
+        "latitude": -38.84272,
+        "longitude": 177.61139
+      },
+      {
+        "clockwise": true,
+        "end": 6,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 13.5,
+        "start": 237
+      },
+      {
+        "angle": 9,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 12
+      },
+      {
+        "angle": 142,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 12
+      }
+    ],
+    "id": "NZA430",
+    "lower": 3500,
+    "name": "Gisborne",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 240,
+        "latitude": -36.787121,
+        "longitude": 174.626285,
+        "radius": 30,
+        "start": 248
+      },
+      {
+        "clockwise": false,
+        "end": 239,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35,
+        "start": 266
+      },
+      {
+        "clockwise": true,
+        "end": 263,
+        "latitude": -37.004813,
+        "longitude": 174.815979,
+        "radius": 45,
+        "start": 241
+      },
+      {
+        "clockwise": true,
+        "end": 253,
+        "latitude": -36.791763,
+        "longitude": 174.631854,
+        "radius": 40,
+        "start": 244
+      }
+    ],
+    "id": "NZA241",
+    "lower": 4500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 8,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 30,
+        "start": 73
+      },
+      {
+        "clockwise": false,
+        "end": 355,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 20,
+        "start": 9
+      },
+      {
+        "latitude": -43.30578,
+        "longitude": 172.29656
+      },
+      {
+        "latitude": -43.48908,
+        "longitude": 172.10664
+      },
+      {
+        "angle": 266,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 20
+      },
+      {
+        "clockwise": false,
+        "end": 167,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 30,
+        "start": 266
+      },
+      {
+        "clockwise": true,
+        "end": 266,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 40,
+        "start": 167
+      },
+      {
+        "angle": 267,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 35
+      },
+      {
+        "angle": 354,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 35
+      },
+      {
+        "clockwise": true,
+        "end": 67,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 40,
+        "start": 1
+      }
+    ],
+    "id": "NZA847",
+    "lower": 5500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "angle": 3,
+        "latitude": -45.79452,
+        "longitude": 170.47737,
+        "radius": 20
+      },
+      {
+        "latitude": -45.67508,
+        "longitude": 170.30478
+      },
+      {
+        "latitude": -45.83986,
+        "longitude": 169.95594
+      },
+      {
+        "latitude": -45.86906,
+        "longitude": 169.89364
+      },
+      {
+        "clockwise": true,
+        "end": 355,
+        "latitude": -45.94588,
+        "longitude": 170.16193,
+        "radius": 30,
+        "start": 264
+      }
+    ],
+    "id": "NZA938",
+    "lower": 7500,
+    "name": "Dunedin",
+    "type": "CTA/D",
+    "upper": 13500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -39.23031,
+        "longitude": 174.91544
+      },
+      {
+        "angle": 324,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 38
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.92347
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.99667
+      },
+      {
+        "latitude": -40.68333,
+        "longitude": 175.17694
+      },
+      {
+        "latitude": -40.71069,
+        "longitude": 175.27283
+      },
+      {
+        "latitude": -40.95189,
+        "longitude": 175.28239
+      },
+      {
+        "latitude": -41.18844,
+        "longitude": 175.31417
+      },
+      {
+        "latitude": -41.21875,
+        "longitude": 175.45975
+      },
+      {
+        "latitude": -41.28056,
+        "longitude": 175.80514
+      },
+      {
+        "latitude": -41.81325,
+        "longitude": 175.29386
+      },
+      {
+        "clockwise": true,
+        "end": 148,
+        "latitude": -45.79452,
+        "longitude": 170.47737,
+        "radius": 20,
+        "start": 129
+      },
+      {
+        "latitude": -46.48372,
+        "longitude": 170.23572
+      },
+      {
+        "clockwise": true,
+        "end": 264,
+        "latitude": -45.94588,
+        "longitude": 170.16193,
+        "radius": 30,
+        "start": 219
+      },
+      {
+        "latitude": -45.86906,
+        "longitude": 169.89364
+      },
+      {
+        "latitude": -45.67508,
+        "longitude": 170.30478
+      },
+      {
+        "angle": 3,
+        "latitude": -45.79452,
+        "longitude": 170.47737,
+        "radius": 20
+      },
+      {
+        "latitude": -45.02103,
+        "longitude": 170.91625
+      },
+      {
+        "clockwise": true,
+        "end": 306,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 60,
+        "start": 227
+      },
+      {
+        "clockwise": true,
+        "end": 270,
+        "latitude": -41.335277,
+        "longitude": 174.813363,
+        "radius": 100,
+        "start": 260
+      },
+      {
+        "clockwise": true,
+        "end": 273,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 28,
+        "start": 271
+      },
+      {
+        "clockwise": true,
+        "end": 289,
+        "latitude": -41.335277,
+        "longitude": 174.813363,
+        "radius": 100,
+        "start": 273
+      },
+      {
+        "latitude": -39.03917,
+        "longitude": 173.54139
+      },
+      {
+        "angle": 266,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 13.5
+      },
+      {
+        "latitude": -39.00724,
+        "longitude": 174.18393
+      }
+    ],
+    "id": "NZA839",
+    "lower": 9500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 296,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 14.5,
+        "start": 354
+      },
+      {
+        "clockwise": true,
+        "end": 354,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 20,
+        "start": 303
+      }
+    ],
+    "id": "NZA442",
+    "lower": 4500,
+    "name": "Napier",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 300,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 26.5,
+        "start": 356
+      },
+      {
+        "latitude": -37.658,
+        "longitude": 175.52786
+      },
+      {
+        "latitude": -37.48728,
+        "longitude": 175.36483
+      },
+      {
+        "clockwise": false,
+        "end": 98,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35,
+        "start": 121
+      },
+      {
+        "angle": 100,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 45
+      }
+    ],
+    "id": "NZA243",
+    "lower": 6500,
+    "name": "Auckland",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -38.45,
+        "longitude": -179.73333
+      },
+      {
+        "latitude": -40.00469,
+        "longitude": 178.53536
+      },
+      {
+        "latitude": -39.15222,
+        "longitude": 177.75522
+      },
+      {
+        "latitude": -39.07964,
+        "longitude": 177.90772
+      },
+      {
+        "latitude": -38.95117,
+        "longitude": 178.17761
+      },
+      {
+        "angle": 142,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 12
+      },
+      {
+        "angle": 9,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 12
+      },
+      {
+        "angle": 6,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 13.5
+      },
+      {
+        "latitude": -37.77733,
+        "longitude": 177.03803
+      },
+      {
+        "clockwise": false,
+        "end": 201,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 100,
+        "start": 111
+      },
+      {
+        "clockwise": false,
+        "end": 266,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 13.5,
+        "start": 319
+      },
+      {
+        "latitude": -39.03917,
+        "longitude": 173.54139
+      },
+      {
+        "clockwise": true,
+        "end": 99,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 200,
+        "start": 230
+      }
+    ],
+    "id": "NZA149",
+    "lower": 13500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 273,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 15,
+        "start": 216
+      },
+      {
+        "clockwise": false,
+        "end": 216,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 10,
+        "start": 273
+      }
+    ],
+    "id": "NZA644",
+    "lower": 2500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 100,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 45,
+        "start": 27
+      },
+      {
+        "clockwise": false,
+        "end": 24,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35,
+        "start": 98
+      },
+      {
+        "clockwise": false,
+        "end": 248,
+        "latitude": -36.787121,
+        "longitude": 174.626285,
+        "radius": 30,
+        "start": 50
+      },
+      {
+        "clockwise": true,
+        "end": 323,
+        "latitude": -36.791763,
+        "longitude": 174.631854,
+        "radius": 40,
+        "start": 253
+      },
+      {
+        "clockwise": true,
+        "end": 353,
+        "latitude": -36.78679,
+        "longitude": 174.63123,
+        "radius": 50,
+        "start": 336
+      },
+      {
+        "clockwise": true,
+        "end": 46,
+        "latitude": -36.791763,
+        "longitude": 174.631854,
+        "radius": 40,
+        "start": 359
+      }
+    ],
+    "id": "NZA148",
+    "lower": 6500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 164,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 13.5,
+        "start": 85
+      },
+      {
+        "clockwise": true,
+        "end": 206,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 8,
+        "start": 164
+      },
+      {
+        "angle": 215,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 10
+      },
+      {
+        "clockwise": true,
+        "end": 358,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 13.5,
+        "start": 223
+      },
+      {
+        "clockwise": true,
+        "end": 85,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 21,
+        "start": 358
+      }
+    ],
+    "id": "NZA342",
+    "lower": 2500,
+    "name": "New Plymouth",
+    "type": "CTA/D",
+    "upper": 6500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -39.07964,
+        "longitude": 177.90772
+      },
+      {
+        "latitude": -39.15222,
+        "longitude": 177.75522
+      },
+      {
+        "latitude": -38.92853,
+        "longitude": 177.43744
+      },
+      {
+        "latitude": -38.84272,
+        "longitude": 177.61139
+      }
+    ],
+    "id": "NZA432",
+    "lower": 6500,
+    "name": "Gisborne",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -39.15222,
+        "longitude": 177.75522
+      },
+      {
+        "latitude": -41.28056,
+        "longitude": 175.80514
+      },
+      {
+        "latitude": -41.21875,
+        "longitude": 175.45975
+      },
+      {
+        "latitude": -41.18844,
+        "longitude": 175.31417
+      },
+      {
+        "latitude": -40.95189,
+        "longitude": 175.28239
+      },
+      {
+        "latitude": -40.71069,
+        "longitude": 175.27283
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.99667
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.92347
+      },
+      {
+        "angle": 324,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 38
+      },
+      {
+        "latitude": -39.23031,
+        "longitude": 174.91544
+      },
+      {
+        "latitude": -38.92153,
+        "longitude": 175.31372
+      },
+      {
+        "latitude": -38.93197,
+        "longitude": 175.37203
+      },
+      {
+        "latitude": -38.95508,
+        "longitude": 175.57703
+      },
+      {
+        "latitude": -38.93233,
+        "longitude": 175.87569
+      },
+      {
+        "clockwise": true,
+        "end": 354,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 33,
+        "start": 310
+      },
+      {
+        "latitude": -38.92853,
+        "longitude": 177.43744
+      }
+    ],
+    "id": "NZA347",
+    "lower": 9500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 296,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 14.5,
+        "start": 68
+      },
+      {
+        "clockwise": true,
+        "end": 354,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 10,
+        "start": 296
+      },
+      {
+        "clockwise": true,
+        "end": 68,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 20,
+        "start": 354
+      }
+    ],
+    "id": "NZA440",
+    "lower": 2500,
+    "name": "Napier",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.00469,
+        "longitude": 178.53536
+      },
+      {
+        "latitude": -40.42969,
+        "longitude": 178.03639
+      },
+      {
+        "latitude": -41.03442,
+        "longitude": 177.31392
+      },
+      {
+        "latitude": -42.20542,
+        "longitude": 175.88689
+      },
+      {
+        "latitude": -41.81325,
+        "longitude": 175.29386
+      },
+      {
+        "latitude": -41.28056,
+        "longitude": 175.80514
+      },
+      {
+        "latitude": -39.15222,
+        "longitude": 177.75522
+      }
+    ],
+    "id": "NZA332",
+    "lower": 13500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 234,
+        "latitude": -36.790616,
+        "longitude": 174.626562,
+        "radius": 20,
+        "start": 240
+      },
+      {
+        "clockwise": false,
+        "end": 236,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 25,
+        "start": 272
+      },
+      {
+        "clockwise": true,
+        "end": 266,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35,
+        "start": 239
+      },
+      {
+        "clockwise": true,
+        "end": 248,
+        "latitude": -36.787121,
+        "longitude": 174.626285,
+        "radius": 30,
+        "start": 240
+      }
+    ],
+    "id": "NZA240",
+    "lower": 3500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -37.70214,
+        "longitude": 176.49489
+      },
+      {
+        "latitude": -37.77169,
+        "longitude": 176.43831
+      },
+      {
+        "latitude": -37.79419,
+        "longitude": 176.39306
+      },
+      {
+        "latitude": -37.77158,
+        "longitude": 175.97483
+      },
+      {
+        "latitude": -37.74567,
+        "longitude": 175.95875
+      },
+      {
+        "latitude": -37.69933,
+        "longitude": 175.96275
+      },
+      {
+        "latitude": -37.61169,
+        "longitude": 175.97169
+      },
+      {
+        "clockwise": true,
+        "end": 72,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 13.5,
+        "start": 291
+      }
+    ],
+    "id": "NZA238",
+    "lower": 2500,
+    "name": "Tauranga",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -43.56167,
+        "longitude": 172.75013
+      },
+      {
+        "latitude": -43.56503,
+        "longitude": 172.62514
+      },
+      {
+        "latitude": -43.6605,
+        "longitude": 172.54794
+      },
+      {
+        "clockwise": true,
+        "end": 266,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 20,
+        "start": 199
+      },
+      {
+        "latitude": -43.48908,
+        "longitude": 172.10664
+      },
+      {
+        "latitude": -43.49972,
+        "longitude": 172.21428
+      },
+      {
+        "latitude": -43.42472,
+        "longitude": 172.32289
+      },
+      {
+        "latitude": -43.31067,
+        "longitude": 172.53664
+      },
+      {
+        "latitude": -43.24897,
+        "longitude": 172.66836
+      },
+      {
+        "clockwise": true,
+        "end": 70,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 20,
+        "start": 23
+      }
+    ],
+    "id": "NZA841",
+    "lower": 1500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -37.56194,
+        "longitude": 175.15847
+      },
+      {
+        "latitude": -37.66192,
+        "longitude": 175.12472
+      },
+      {
+        "latitude": -37.95908,
+        "longitude": 175.07833
+      },
+      {
+        "latitude": -37.98169,
+        "longitude": 175.14803
+      },
+      {
+        "latitude": -37.99433,
+        "longitude": 175.15422
+      },
+      {
+        "latitude": -38.07261,
+        "longitude": 175.11331
+      },
+      {
+        "latitude": -38.18703,
+        "longitude": 175.21094
+      },
+      {
+        "latitude": -38.14917,
+        "longitude": 175.41931
+      },
+      {
+        "latitude": -38.21525,
+        "longitude": 175.38408
+      },
+      {
+        "clockwise": true,
+        "end": 215,
+        "latitude": -37.84936,
+        "longitude": 175.33861,
+        "radius": 25,
+        "start": 178
+      },
+      {
+        "latitude": -38.114,
+        "longitude": 175.01706
+      },
+      {
+        "latitude": -37.82361,
+        "longitude": 174.97333
+      },
+      {
+        "angle": 166,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35
+      }
+    ],
+    "id": "NZA249",
+    "lower": 4500,
+    "name": "Hamilton",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -44.41411,
+        "longitude": 169.63492
+      },
+      {
+        "latitude": -44.44169,
+        "longitude": 169.53875
+      },
+      {
+        "latitude": -44.51853,
+        "longitude": 169.59283
+      },
+      {
+        "latitude": -44.73331,
+        "longitude": 169.74503
+      },
+      {
+        "latitude": -44.89811,
+        "longitude": 169.66125
+      },
+      {
+        "latitude": -44.96897,
+        "longitude": 169.47678
+      },
+      {
+        "latitude": -45.33478,
+        "longitude": 169.16169
+      },
+      {
+        "latitude": -45.46819,
+        "longitude": 169.04647
+      },
+      {
+        "latitude": -45.59142,
+        "longitude": 168.90489
+      },
+      {
+        "latitude": -45.70225,
+        "longitude": 168.86308
+      },
+      {
+        "latitude": -45.75886,
+        "longitude": 168.75775
+      },
+      {
+        "latitude": -45.80811,
+        "longitude": 168.71336
+      },
+      {
+        "latitude": -45.75344,
+        "longitude": 168.39553
+      },
+      {
+        "latitude": -45.84392,
+        "longitude": 168.23108
+      },
+      {
+        "latitude": -45.44186,
+        "longitude": 168.24703
+      },
+      {
+        "latitude": -44.95306,
+        "longitude": 166.47847
+      },
+      {
+        "latitude": -43.71644,
+        "longitude": 167.92294
+      },
+      {
+        "latitude": -44.18575,
+        "longitude": 168.36475
+      },
+      {
+        "latitude": -44.04028,
+        "longitude": 168.86519
+      },
+      {
+        "latitude": -44.29378,
+        "longitude": 169.43633
+      }
+    ],
+    "id": "NZA948",
+    "lower": 17500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 164,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 21,
+        "start": 85
+      },
+      {
+        "clockwise": false,
+        "end": 85,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 13.5,
+        "start": 164
+      }
+    ],
+    "id": "NZA343",
+    "lower": 4500,
+    "name": "New Plymouth",
+    "type": "CTA/D",
+    "upper": 6500
+  },
+  {
+    "boundary": [
+      {
+        "angle": 219,
+        "latitude": -45.94588,
+        "longitude": 170.16193,
+        "radius": 30
+      },
+      {
+        "latitude": -47.13781,
+        "longitude": 169.71114
+      },
+      {
+        "latitude": -48.15,
+        "longitude": 168.26667
+      },
+      {
+        "latitude": -45.91667,
+        "longitude": 165.3
+      },
+      {
+        "latitude": -44.95306,
+        "longitude": 166.47847
+      },
+      {
+        "latitude": -45.44186,
+        "longitude": 168.24703
+      },
+      {
+        "latitude": -45.84392,
+        "longitude": 168.23108
+      },
+      {
+        "latitude": -45.93453,
+        "longitude": 168.19433
+      },
+      {
+        "latitude": -46.07694,
+        "longitude": 168.23689
+      },
+      {
+        "clockwise": false,
+        "end": 293,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 15,
+        "start": 351
+      },
+      {
+        "latitude": -46.36072,
+        "longitude": 167.78592
+      },
+      {
+        "latitude": -46.77117,
+        "longitude": 167.96417
+      },
+      {
+        "latitude": -46.8635,
+        "longitude": 168.23181
+      },
+      {
+        "latitude": -46.88069,
+        "longitude": 168.54822
+      },
+      {
+        "latitude": -46.83056,
+        "longitude": 168.8
+      },
+      {
+        "latitude": -46.44842,
+        "longitude": 168.84639
+      }
+    ],
+    "id": "NZA947",
+    "lower": 28500,
+    "name": "Invercargill",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.71069,
+        "longitude": 175.27283
+      },
+      {
+        "latitude": -40.84025,
+        "longitude": 175.17258
+      },
+      {
+        "latitude": -40.93253,
+        "longitude": 175.16222
+      },
+      {
+        "latitude": -41.05631,
+        "longitude": 175.19461
+      },
+      {
+        "latitude": -41.07889,
+        "longitude": 175.20217
+      },
+      {
+        "latitude": -41.08919,
+        "longitude": 175.20417
+      },
+      {
+        "latitude": -41.09828,
+        "longitude": 175.1835
+      },
+      {
+        "latitude": -41.10519,
+        "longitude": 175.17286
+      },
+      {
+        "latitude": -41.11883,
+        "longitude": 175.13653
+      },
+      {
+        "latitude": -41.13906,
+        "longitude": 175.09222
+      },
+      {
+        "latitude": -41.08972,
+        "longitude": 175.0975
+      },
+      {
+        "latitude": -41.03864,
+        "longitude": 175.10217
+      },
+      {
+        "latitude": -40.94842,
+        "longitude": 175.10822
+      },
+      {
+        "latitude": -40.94094,
+        "longitude": 175.01183
+      },
+      {
+        "latitude": -40.76411,
+        "longitude": 175.1175
+      },
+      {
+        "latitude": -40.68333,
+        "longitude": 175.17694
+      }
+    ],
+    "id": "NZA634",
+    "lower": 5500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.68333,
+        "longitude": 175.17694
+      },
+      {
+        "latitude": -40.76411,
+        "longitude": 175.11742
+      },
+      {
+        "latitude": -40.94094,
+        "longitude": 175.01183
+      },
+      {
+        "latitude": -40.9395,
+        "longitude": 174.99344
+      },
+      {
+        "clockwise": false,
+        "end": 269,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 25,
+        "start": 10
+      },
+      {
+        "latitude": -41.34447,
+        "longitude": 174.12828
+      },
+      {
+        "latitude": -41.39189,
+        "longitude": 174.04683
+      },
+      {
+        "latitude": -41.43956,
+        "longitude": 173.965
+      },
+      {
+        "latitude": -41.44442,
+        "longitude": 173.88181
+      },
+      {
+        "latitude": -41.37172,
+        "longitude": 173.94092
+      },
+      {
+        "latitude": -41.29611,
+        "longitude": 174.00217
+      },
+      {
+        "latitude": -41.15411,
+        "longitude": 174.20036
+      },
+      {
+        "latitude": -40.995,
+        "longitude": 174.31364
+      },
+      {
+        "latitude": -40.90483,
+        "longitude": 174.30581
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.87544
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.92347
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.99667
+      }
+    ],
+    "id": "NZA633",
+    "lower": 4500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 276,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 20,
+        "start": 195
+      },
+      {
+        "clockwise": false,
+        "end": 195,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 14.5,
+        "start": 276
+      }
+    ],
+    "id": "NZA540",
+    "lower": 3500,
+    "name": "Napier",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -43.24897,
+        "longitude": 172.66836
+      },
+      {
+        "latitude": -43.31067,
+        "longitude": 172.53664
+      },
+      {
+        "latitude": -43.42472,
+        "longitude": 172.32289
+      },
+      {
+        "latitude": -43.49972,
+        "longitude": 172.21428
+      },
+      {
+        "latitude": -43.48908,
+        "longitude": 172.10664
+      },
+      {
+        "latitude": -43.30578,
+        "longitude": 172.29656
+      },
+      {
+        "clockwise": true,
+        "end": 23,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 20,
+        "start": 355
+      }
+    ],
+    "id": "NZA844",
+    "lower": 2500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 216,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 28,
+        "start": 180
+      },
+      {
+        "clockwise": false,
+        "end": 180,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 20,
+        "start": 216
+      }
+    ],
+    "id": "NZA649",
+    "lower": 7500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -45.67508,
+        "longitude": 170.30478
+      },
+      {
+        "latitude": -45.72078,
+        "longitude": 170.35639
+      },
+      {
+        "latitude": -45.73186,
+        "longitude": 170.36025
+      },
+      {
+        "latitude": -45.76931,
+        "longitude": 170.34222
+      },
+      {
+        "latitude": -45.79033,
+        "longitude": 170.28814
+      },
+      {
+        "latitude": -45.83867,
+        "longitude": 170.19564
+      },
+      {
+        "latitude": -45.92061,
+        "longitude": 170.00675
+      },
+      {
+        "latitude": -45.92556,
+        "longitude": 169.99569
+      },
+      {
+        "latitude": -45.83986,
+        "longitude": 169.95594
+      }
+    ],
+    "id": "NZA937",
+    "lower": 4500,
+    "name": "Dunedin",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.29567,
+        "longitude": 173.09003
+      },
+      {
+        "clockwise": true,
+        "end": 331,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 10,
+        "start": 273
+      }
+    ],
+    "id": "NZA639",
+    "lower": 3500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 5500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.477,
+        "longitude": 173.57083
+      },
+      {
+        "latitude": -41.53528,
+        "longitude": 173.49311
+      },
+      {
+        "latitude": -41.62567,
+        "longitude": 173.50761
+      },
+      {
+        "angle": 180,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 20
+      },
+      {
+        "latitude": -41.39292,
+        "longitude": 173.22211
+      },
+      {
+        "latitude": -41.35075,
+        "longitude": 173.31656
+      }
+    ],
+    "id": "NZA648",
+    "lower": 7500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 303,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 20,
+        "start": 354
+      },
+      {
+        "clockwise": true,
+        "end": 354,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 33,
+        "start": 310
+      }
+    ],
+    "id": "NZA443",
+    "lower": 6500,
+    "name": "Napier",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 354,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 35,
+        "start": 267
+      }
+    ],
+    "id": "NZA849",
+    "lower": 7500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -37.77733,
+        "longitude": 177.03803
+      },
+      {
+        "angle": 6,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 13.5
+      },
+      {
+        "angle": 9,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 12
+      },
+      {
+        "angle": 142,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 12
+      },
+      {
+        "latitude": -38.95117,
+        "longitude": 178.17761
+      },
+      {
+        "latitude": -39.07964,
+        "longitude": 177.90772
+      },
+      {
+        "latitude": -39.15222,
+        "longitude": 177.75522
+      },
+      {
+        "latitude": -38.92853,
+        "longitude": 177.43744
+      },
+      {
+        "clockwise": false,
+        "end": 310,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 33,
+        "start": 354
+      },
+      {
+        "latitude": -38.93233,
+        "longitude": 175.87569
+      },
+      {
+        "latitude": -38.95508,
+        "longitude": 175.57703
+      },
+      {
+        "latitude": -38.93197,
+        "longitude": 175.37203
+      },
+      {
+        "latitude": -38.92153,
+        "longitude": 175.31372
+      },
+      {
+        "latitude": -39.23031,
+        "longitude": 174.91544
+      },
+      {
+        "latitude": -39.00724,
+        "longitude": 174.18393
+      },
+      {
+        "clockwise": true,
+        "end": 319,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 13.5,
+        "start": 266
+      },
+      {
+        "clockwise": true,
+        "end": 111,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 100,
+        "start": 201
+      }
+    ],
+    "id": "NZA147",
+    "lower": 9500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 127,
+        "latitude": -40.32025,
+        "longitude": 175.63785,
+        "radius": 16,
+        "start": 76
+      },
+      {
+        "latitude": -40.64639,
+        "longitude": 175.70544
+      },
+      {
+        "latitude": -40.62275,
+        "longitude": 175.59619
+      },
+      {
+        "latitude": -40.60975,
+        "longitude": 175.53322
+      },
+      {
+        "latitude": -40.60222,
+        "longitude": 175.49614
+      },
+      {
+        "latitude": -40.66983,
+        "longitude": 175.35711
+      },
+      {
+        "latitude": -40.71069,
+        "longitude": 175.27283
+      },
+      {
+        "latitude": -40.68333,
+        "longitude": 175.17694
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.99667
+      },
+      {
+        "latitude": -40.63161,
+        "longitude": 174.87544
+      },
+      {
+        "clockwise": true,
+        "end": 324,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 38,
+        "start": 310
+      },
+      {
+        "latitude": -39.69742,
+        "longitude": 175.3695
+      },
+      {
+        "clockwise": true,
+        "end": 31,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 24,
+        "start": 5
+      },
+      {
+        "latitude": -39.99169,
+        "longitude": 175.72719
+      },
+      {
+        "latitude": -40.05911,
+        "longitude": 175.77972
+      },
+      {
+        "latitude": -40.27911,
+        "longitude": 175.75658
+      },
+      {
+        "latitude": -40.13819,
+        "longitude": 175.66061
+      },
+      {
+        "clockwise": false,
+        "end": 262,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 15,
+        "start": 57
+      },
+      {
+        "latitude": -40.39089,
+        "longitude": 175.09847
+      },
+      {
+        "latitude": -40.54828,
+        "longitude": 175.13044
+      },
+      {
+        "latitude": -40.54828,
+        "longitude": 175.26283
+      },
+      {
+        "latitude": -40.47603,
+        "longitude": 175.30856
+      },
+      {
+        "latitude": -40.42708,
+        "longitude": 175.58131
+      },
+      {
+        "clockwise": false,
+        "end": 75,
+        "latitude": -40.32025,
+        "longitude": 175.63785,
+        "radius": 12,
+        "start": 102
+      }
+    ],
+    "id": "NZA333",
+    "lower": 3500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -45.02103,
+        "longitude": 170.91625
+      },
+      {
+        "angle": 3,
+        "latitude": -45.79452,
+        "longitude": 170.47737,
+        "radius": 20
+      },
+      {
+        "latitude": -45.67508,
+        "longitude": 170.30478
+      },
+      {
+        "latitude": -45.86906,
+        "longitude": 169.89364
+      },
+      {
+        "angle": 264,
+        "latitude": -45.94588,
+        "longitude": 170.16193,
+        "radius": 30
+      },
+      {
+        "latitude": -45.72697,
+        "longitude": 169.08319
+      },
+      {
+        "latitude": -45.82764,
+        "longitude": 168.95603
+      },
+      {
+        "latitude": -45.75886,
+        "longitude": 168.75775
+      },
+      {
+        "latitude": -45.70225,
+        "longitude": 168.86308
+      },
+      {
+        "latitude": -45.59142,
+        "longitude": 168.90489
+      },
+      {
+        "latitude": -45.46819,
+        "longitude": 169.04647
+      },
+      {
+        "latitude": -45.33478,
+        "longitude": 169.16169
+      },
+      {
+        "latitude": -44.96897,
+        "longitude": 169.47678
+      },
+      {
+        "latitude": -44.89811,
+        "longitude": 169.66125
+      },
+      {
+        "latitude": -44.73331,
+        "longitude": 169.74503
+      },
+      {
+        "latitude": -44.51853,
+        "longitude": 169.59283
+      },
+      {
+        "latitude": -44.44169,
+        "longitude": 169.53875
+      },
+      {
+        "latitude": -44.41411,
+        "longitude": 169.63492
+      },
+      {
+        "latitude": -44.07483,
+        "longitude": 170.22636
+      },
+      {
+        "latitude": -43.49283,
+        "longitude": 170.83564
+      },
+      {
+        "clockwise": false,
+        "end": 227,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 60,
+        "start": 269
+      }
+    ],
+    "id": "NZA945",
+    "lower": 13500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -38.93197,
+        "longitude": 175.37203
+      },
+      {
+        "latitude": -39.46653,
+        "longitude": 175.4265
+      },
+      {
+        "latitude": -39.46647,
+        "longitude": 175.56894
+      },
+      {
+        "angle": 17,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 31
+      },
+      {
+        "latitude": -39.69742,
+        "longitude": 175.3695
+      },
+      {
+        "angle": 324,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 38
+      },
+      {
+        "latitude": -39.23031,
+        "longitude": 174.91544
+      },
+      {
+        "latitude": -38.92153,
+        "longitude": 175.31372
+      }
+    ],
+    "id": "NZA348",
+    "lower": 6500,
+    "name": "Ohakea",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 244,
+        "latitude": -36.791763,
+        "longitude": 174.631854,
+        "radius": 40,
+        "start": 253
+      },
+      {
+        "clockwise": false,
+        "end": 241,
+        "latitude": -37.004813,
+        "longitude": 174.815979,
+        "radius": 45,
+        "start": 263
+      },
+      {
+        "clockwise": true,
+        "end": 271,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 55,
+        "start": 242
+      }
+    ],
+    "id": "NZA242",
+    "lower": 6500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "angle": 111,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 100
+      },
+      {
+        "latitude": -37.87878,
+        "longitude": 176.67058
+      },
+      {
+        "latitude": -37.97486,
+        "longitude": 176.59453
+      },
+      {
+        "angle": 79,
+        "latitude": -38.10816,
+        "longitude": 176.31399,
+        "radius": 15
+      },
+      {
+        "latitude": -38.08647,
+        "longitude": 176.45919
+      },
+      {
+        "latitude": -38.15647,
+        "longitude": 176.43044
+      },
+      {
+        "latitude": -38.23589,
+        "longitude": 176.3
+      },
+      {
+        "latitude": -38.27756,
+        "longitude": 176.30511
+      },
+      {
+        "clockwise": true,
+        "end": 259,
+        "latitude": -38.10816,
+        "longitude": 176.31399,
+        "radius": 15,
+        "start": 191
+      },
+      {
+        "latitude": -38.03417,
+        "longitude": 175.97733
+      },
+      {
+        "clockwise": true,
+        "end": 291,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 13.5,
+        "start": 268
+      },
+      {
+        "latitude": -37.61169,
+        "longitude": 175.97169
+      },
+      {
+        "latitude": -37.69933,
+        "longitude": 175.96275
+      },
+      {
+        "latitude": -37.74567,
+        "longitude": 175.95875
+      },
+      {
+        "latitude": -37.77158,
+        "longitude": 175.97483
+      },
+      {
+        "latitude": -37.79419,
+        "longitude": 176.39306
+      },
+      {
+        "latitude": -37.77169,
+        "longitude": 176.43831
+      },
+      {
+        "latitude": -37.70214,
+        "longitude": 176.49489
+      },
+      {
+        "clockwise": false,
+        "end": 356,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 13.5,
+        "start": 72
+      },
+      {
+        "angle": 356,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 26.5
+      },
+      {
+        "latitude": -37.41794,
+        "longitude": 176.55492
+      }
+    ],
+    "id": "NZA448",
+    "lower": 3500,
+    "name": "Rotorua",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 32,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 22,
+        "start": 47
+      },
+      {
+        "latitude": -46.07739,
+        "longitude": 168.29681
+      },
+      {
+        "latitude": -45.99506,
+        "longitude": 168.31508
+      },
+      {
+        "clockwise": true,
+        "end": 46,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 28,
+        "start": 1
+      }
+    ],
+    "id": "NZA738",
+    "lower": 5500,
+    "name": "Invercargill",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 168,
+        "latitude": -38.10816,
+        "longitude": 176.31399,
+        "radius": 15,
+        "start": 79
+      },
+      {
+        "clockwise": true,
+        "end": 249,
+        "latitude": -38.10816,
+        "longitude": 176.31399,
+        "radius": 25,
+        "start": 168
+      },
+      {
+        "latitude": -38.14389,
+        "longitude": 175.55028
+      },
+      {
+        "latitude": -38.14917,
+        "longitude": 175.41931
+      },
+      {
+        "latitude": -38.02189,
+        "longitude": 175.48686
+      },
+      {
+        "latitude": -37.7905,
+        "longitude": 175.56186
+      },
+      {
+        "latitude": -37.658,
+        "longitude": 175.52786
+      },
+      {
+        "clockwise": true,
+        "end": 356,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 26.5,
+        "start": 300
+      },
+      {
+        "clockwise": false,
+        "end": 268,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 13.5,
+        "start": 356
+      },
+      {
+        "clockwise": false,
+        "end": 191,
+        "latitude": -38.10816,
+        "longitude": 176.31399,
+        "radius": 15,
+        "start": 259
+      },
+      {
+        "latitude": -38.27756,
+        "longitude": 176.30511
+      },
+      {
+        "latitude": -38.23589,
+        "longitude": 176.3
+      },
+      {
+        "latitude": -38.15647,
+        "longitude": 176.43044
+      },
+      {
+        "latitude": -38.08647,
+        "longitude": 176.45919
+      }
+    ],
+    "id": "NZA234",
+    "lower": 4500,
+    "name": "Rotorua",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 231,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 15,
+        "start": 133
+      },
+      {
+        "clockwise": false,
+        "end": 101,
+        "latitude": -41.408056,
+        "longitude": 174.800278,
+        "radius": 5,
+        "start": 267
+      }
+    ],
+    "id": "NZA635",
+    "lower": 1500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -46.80439,
+        "longitude": 168.44969
+      },
+      {
+        "latitude": -46.8635,
+        "longitude": 168.23181
+      },
+      {
+        "latitude": -46.77117,
+        "longitude": 167.96417
+      },
+      {
+        "latitude": -46.36072,
+        "longitude": 167.78592
+      },
+      {
+        "clockwise": false,
+        "end": 128,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 15,
+        "start": 293
+      }
+    ],
+    "id": "NZA734",
+    "lower": 2500,
+    "name": "Invercargill",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -39.03917,
+        "longitude": 173.54139
+      },
+      {
+        "clockwise": false,
+        "end": 273,
+        "latitude": -41.335277,
+        "longitude": 174.813363,
+        "radius": 100,
+        "start": 289
+      },
+      {
+        "clockwise": false,
+        "end": 271,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 28,
+        "start": 273
+      },
+      {
+        "clockwise": false,
+        "end": 260,
+        "latitude": -41.335277,
+        "longitude": 174.813363,
+        "radius": 100,
+        "start": 270
+      },
+      {
+        "clockwise": false,
+        "end": 269,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 60,
+        "start": 306
+      },
+      {
+        "latitude": -43.49283,
+        "longitude": 170.83564
+      },
+      {
+        "latitude": -43.45992,
+        "longitude": 170.25086
+      },
+      {
+        "latitude": -43.60397,
+        "longitude": 168.05
+      },
+      {
+        "clockwise": true,
+        "end": 310,
+        "latitude": -41.317719,
+        "longitude": 174.864765,
+        "radius": 200,
+        "start": 268
+      },
+      {
+        "angle": 230,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 200
+      }
+    ],
+    "id": "NZA736",
+    "lower": 13500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -37.69803,
+        "longitude": 175.44422
+      },
+      {
+        "latitude": -37.76356,
+        "longitude": 175.47467
+      },
+      {
+        "latitude": -38.01011,
+        "longitude": 175.39494
+      },
+      {
+        "latitude": -38.05286,
+        "longitude": 175.31617
+      },
+      {
+        "latitude": -38.03147,
+        "longitude": 175.22183
+      },
+      {
+        "latitude": -37.96825,
+        "longitude": 175.19094
+      },
+      {
+        "latitude": -37.71953,
+        "longitude": 175.27211
+      },
+      {
+        "latitude": -37.67692,
+        "longitude": 175.35144
+      }
+    ],
+    "id": "NZA239",
+    "lower": 2000,
+    "name": "Hamilton",
+    "type": "CTA/D",
+    "upper": 2500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -37.62239,
+        "longitude": 176.42358
+      },
+      {
+        "latitude": -37.72303,
+        "longitude": 176.41644
+      },
+      {
+        "angle": 109,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 7.5
+      },
+      {
+        "latitude": -37.71417,
+        "longitude": 176.28097
+      },
+      {
+        "latitude": -37.71622,
+        "longitude": 176.23742
+      },
+      {
+        "latitude": -37.72444,
+        "longitude": 176.17033
+      },
+      {
+        "latitude": -37.70383,
+        "longitude": 176.13861
+      },
+      {
+        "latitude": -37.70578,
+        "longitude": 176.10833
+      },
+      {
+        "angle": 258,
+        "latitude": -37.67756,
+        "longitude": 176.19122,
+        "radius": 7.5
+      },
+      {
+        "latitude": -37.69933,
+        "longitude": 175.96275
+      },
+      {
+        "latitude": -37.61169,
+        "longitude": 175.97169
+      },
+      {
+        "latitude": -37.54942,
+        "longitude": 176.05678
+      },
+      {
+        "latitude": -37.57731,
+        "longitude": 176.35889
+      }
+    ],
+    "id": "NZA237",
+    "lower": 1500,
+    "name": "Tauranga",
+    "type": "CTA/D",
+    "upper": 2500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 331,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 10,
+        "start": 61
+      },
+      {
+        "clockwise": true,
+        "end": 61,
+        "latitude": -41.301667,
+        "longitude": 173.2225,
+        "radius": 15,
+        "start": 332
+      }
+    ],
+    "id": "NZA652",
+    "lower": 2500,
+    "name": "Nelson",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -45.80811,
+        "longitude": 168.71336
+      },
+      {
+        "clockwise": true,
+        "end": 53,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 36,
+        "start": 29
+      },
+      {
+        "clockwise": false,
+        "end": 1,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 28,
+        "start": 46
+      },
+      {
+        "latitude": -45.99506,
+        "longitude": 168.31508
+      },
+      {
+        "latitude": -46.07739,
+        "longitude": 168.29681
+      },
+      {
+        "latitude": -46.07694,
+        "longitude": 168.23689
+      },
+      {
+        "latitude": -45.93453,
+        "longitude": 168.19433
+      },
+      {
+        "latitude": -45.84392,
+        "longitude": 168.23108
+      },
+      {
+        "latitude": -45.75344,
+        "longitude": 168.39553
+      }
+    ],
+    "id": "NZA739",
+    "lower": 6500,
+    "name": "Invercargill",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 102,
+        "latitude": -40.32025,
+        "longitude": 175.63785,
+        "radius": 12,
+        "start": 75
+      },
+      {
+        "latitude": -40.42708,
+        "longitude": 175.58131
+      },
+      {
+        "latitude": -40.36903,
+        "longitude": 175.66203
+      },
+      {
+        "latitude": -40.37014,
+        "longitude": 175.72375
+      },
+      {
+        "latitude": -40.34378,
+        "longitude": 175.74553
+      },
+      {
+        "latitude": -40.33922,
+        "longitude": 175.77553
+      },
+      {
+        "latitude": -40.32314,
+        "longitude": 175.78581
+      },
+      {
+        "latitude": -40.32278,
+        "longitude": 175.81167
+      },
+      {
+        "latitude": -40.31672,
+        "longitude": 175.81603
+      },
+      {
+        "latitude": -40.30389,
+        "longitude": 175.80656
+      },
+      {
+        "latitude": -40.28583,
+        "longitude": 175.77153
+      }
+    ],
+    "id": "NZA339",
+    "lower": 2500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -46.48372,
+        "longitude": 170.23572
+      },
+      {
+        "clockwise": true,
+        "end": 264,
+        "latitude": -45.94588,
+        "longitude": 170.16193,
+        "radius": 30,
+        "start": 219
+      },
+      {
+        "latitude": -45.86906,
+        "longitude": 169.89364
+      },
+      {
+        "latitude": -45.83986,
+        "longitude": 169.95594
+      },
+      {
+        "latitude": -45.92556,
+        "longitude": 169.99569
+      },
+      {
+        "latitude": -45.92061,
+        "longitude": 170.00675
+      },
+      {
+        "latitude": -45.83867,
+        "longitude": 170.19564
+      },
+      {
+        "latitude": -45.79033,
+        "longitude": 170.28814
+      },
+      {
+        "latitude": -45.76931,
+        "longitude": 170.34222
+      },
+      {
+        "latitude": -45.73186,
+        "longitude": 170.36025
+      },
+      {
+        "latitude": -45.72078,
+        "longitude": 170.35639
+      },
+      {
+        "latitude": -45.67508,
+        "longitude": 170.30478
+      },
+      {
+        "clockwise": true,
+        "end": 148,
+        "latitude": -45.79452,
+        "longitude": 170.47737,
+        "radius": 20,
+        "start": 3
+      }
+    ],
+    "id": "NZA936",
+    "lower": 3500,
+    "name": "Dunedin",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.60692,
+        "longitude": 174.166
+      },
+      {
+        "angle": 188,
+        "latitude": -41.33711,
+        "longitude": 174.81722,
+        "radius": 25
+      },
+      {
+        "latitude": -41.85342,
+        "longitude": 174.68242
+      },
+      {
+        "latitude": -41.73389,
+        "longitude": 174.2725
+      },
+      {
+        "latitude": -41.67275,
+        "longitude": 174.07433
+      },
+      {
+        "latitude": -41.64511,
+        "longitude": 174.07344
+      },
+      {
+        "latitude": -41.60808,
+        "longitude": 174.05381
+      }
+    ],
+    "id": "NZA656",
+    "lower": 4500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -44.81544,
+        "longitude": 169.11842
+      },
+      {
+        "latitude": -44.93164,
+        "longitude": 169.13019
+      },
+      {
+        "latitude": -44.92764,
+        "longitude": 169.0515
+      },
+      {
+        "latitude": -44.93225,
+        "longitude": 169.0115
+      },
+      {
+        "latitude": -44.91978,
+        "longitude": 168.94275
+      },
+      {
+        "latitude": -44.87583,
+        "longitude": 168.96186
+      }
+    ],
+    "id": "NZA733",
+    "lower": 6500,
+    "name": "Queenstown",
+    "type": "CTA/C",
+    "upper": 17500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 219,
+        "latitude": -45.94588,
+        "longitude": 170.16193,
+        "radius": 30,
+        "start": 264
+      },
+      {
+        "latitude": -46.44842,
+        "longitude": 168.84639
+      },
+      {
+        "clockwise": false,
+        "end": 351,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 15,
+        "start": 104
+      },
+      {
+        "latitude": -46.07694,
+        "longitude": 168.23689
+      },
+      {
+        "latitude": -46.07739,
+        "longitude": 168.29681
+      },
+      {
+        "clockwise": true,
+        "end": 47,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 22,
+        "start": 32
+      },
+      {
+        "angle": 46,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 28
+      },
+      {
+        "angle": 53,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 36
+      },
+      {
+        "latitude": -46.00167,
+        "longitude": 169.34442
+      }
+    ],
+    "id": "NZA946",
+    "lower": 3500,
+    "name": "Invercargill",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 121,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35,
+        "start": 24
+      },
+      {
+        "latitude": -37.48728,
+        "longitude": 175.36483
+      },
+      {
+        "latitude": -37.51325,
+        "longitude": 175.32081
+      },
+      {
+        "latitude": -37.53881,
+        "longitude": 175.23578
+      },
+      {
+        "latitude": -37.56194,
+        "longitude": 175.15847
+      },
+      {
+        "clockwise": true,
+        "end": 239,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35,
+        "start": 166
+      },
+      {
+        "clockwise": false,
+        "end": 19,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 25,
+        "start": 236
+      },
+      {
+        "clockwise": false,
+        "end": 240,
+        "latitude": -36.790616,
+        "longitude": 174.626562,
+        "radius": 20,
+        "start": 57
+      },
+      {
+        "clockwise": true,
+        "end": 50,
+        "latitude": -36.787121,
+        "longitude": 174.626285,
+        "radius": 30,
+        "start": 248
+      }
+    ],
+    "id": "NZA145",
+    "lower": 4500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -44.79658,
+        "longitude": 169.23425
+      },
+      {
+        "latitude": -44.87156,
+        "longitude": 169.28333
+      },
+      {
+        "latitude": -44.93164,
+        "longitude": 169.13019
+      },
+      {
+        "latitude": -44.81544,
+        "longitude": 169.11842
+      }
+    ],
+    "id": "NZA741",
+    "lower": 7500,
+    "name": "Queenstown",
+    "type": "CTA/C",
+    "upper": 17500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 256,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 13.5,
+        "start": 320
+      },
+      {
+        "clockwise": true,
+        "end": 320,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 20,
+        "start": 256
+      }
+    ],
+    "id": "NZA431",
+    "lower": 5500,
+    "name": "Gisborne",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -43.47267,
+        "longitude": 170.05606
+      },
+      {
+        "latitude": -44.29378,
+        "longitude": 169.43633
+      },
+      {
+        "latitude": -44.04028,
+        "longitude": 168.86519
+      },
+      {
+        "latitude": -44.18575,
+        "longitude": 168.36475
+      },
+      {
+        "latitude": -43.71644,
+        "longitude": 167.92294
+      },
+      {
+        "latitude": -43.60397,
+        "longitude": 168.05
+      }
+    ],
+    "id": "NZA740",
+    "lower": 24500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -46.44842,
+        "longitude": 168.84639
+      },
+      {
+        "latitude": -46.83056,
+        "longitude": 168.8
+      },
+      {
+        "latitude": -46.88069,
+        "longitude": 168.54822
+      },
+      {
+        "latitude": -46.8635,
+        "longitude": 168.23181
+      },
+      {
+        "latitude": -46.77117,
+        "longitude": 167.96417
+      },
+      {
+        "latitude": -46.36072,
+        "longitude": 167.78592
+      },
+      {
+        "clockwise": true,
+        "end": 351,
+        "latitude": -46.415,
+        "longitude": 168.32,
+        "radius": 15,
+        "start": 293
+      },
+      {
+        "latitude": -46.07694,
+        "longitude": 168.23689
+      },
+      {
+        "latitude": -45.93453,
+        "longitude": 168.19433
+      },
+      {
+        "latitude": -45.84392,
+        "longitude": 168.23108
+      },
+      {
+        "latitude": -45.75344,
+        "longitude": 168.39553
+      },
+      {
+        "latitude": -45.80811,
+        "longitude": 168.71336
+      },
+      {
+        "latitude": -45.75886,
+        "longitude": 168.75775
+      },
+      {
+        "latitude": -45.82764,
+        "longitude": 168.95603
+      },
+      {
+        "latitude": -45.72697,
+        "longitude": 169.08319
+      },
+      {
+        "clockwise": false,
+        "end": 219,
+        "latitude": -45.94588,
+        "longitude": 170.16193,
+        "radius": 30,
+        "start": 264
+      }
+    ],
+    "id": "NZA728",
+    "lower": 9500,
+    "name": "Christchurch",
+    "type": "CTA/D",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -42.20542,
+        "longitude": 175.88689
+      },
+      {
+        "latitude": -42.85833,
+        "longitude": 175.05
+      },
+      {
+        "latitude": -47.13781,
+        "longitude": 169.71114
+      },
+      {
+        "angle": 219,
+        "latitude": -45.94588,
+        "longitude": 170.16193,
+        "radius": 30
+      },
+      {
+        "latitude": -46.48372,
+        "longitude": 170.23572
+      },
+      {
+        "clockwise": false,
+        "end": 125,
+        "latitude": -45.79452,
+        "longitude": 170.47737,
+        "radius": 20,
+        "start": 148
+      },
+      {
+        "latitude": -41.81325,
+        "longitude": 175.29386
+      }
+    ],
+    "id": "NZA935",
+    "lower": 13500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 60000
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": false,
+        "end": 320,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 13.5,
+        "start": 6
+      },
+      {
+        "clockwise": false,
+        "end": 256,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 20,
+        "start": 320
+      },
+      {
+        "clockwise": false,
+        "end": 237,
+        "latitude": -38.66055,
+        "longitude": 177.97742,
+        "radius": 13.5,
+        "start": 256
+      },
+      {
+        "latitude": -38.84272,
+        "longitude": 177.61139
+      },
+      {
+        "latitude": -38.92853,
+        "longitude": 177.43744
+      },
+      {
+        "clockwise": false,
+        "end": 310,
+        "latitude": -39.45392,
+        "longitude": 176.8689,
+        "radius": 33,
+        "start": 354
+      },
+      {
+        "latitude": -38.93233,
+        "longitude": 175.87569
+      },
+      {
+        "latitude": -38.95508,
+        "longitude": 175.57703
+      },
+      {
+        "latitude": -38.93197,
+        "longitude": 175.37203
+      },
+      {
+        "latitude": -38.92153,
+        "longitude": 175.31372
+      },
+      {
+        "latitude": -39.23031,
+        "longitude": 174.91544
+      },
+      {
+        "latitude": -39.00725,
+        "longitude": 174.18394
+      },
+      {
+        "clockwise": true,
+        "end": 319,
+        "latitude": -39.00724,
+        "longitude": 174.18393,
+        "radius": 13.5,
+        "start": 266
+      },
+      {
+        "angle": 201,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 100
+      },
+      {
+        "angle": 210,
+        "latitude": -37.004813,
+        "longitude": 174.815979,
+        "radius": 45
+      },
+      {
+        "clockwise": false,
+        "end": 166,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 35,
+        "start": 215
+      },
+      {
+        "latitude": -37.82361,
+        "longitude": 174.97333
+      },
+      {
+        "latitude": -38.114,
+        "longitude": 175.01706
+      },
+      {
+        "clockwise": false,
+        "end": 178,
+        "latitude": -37.84936,
+        "longitude": 175.33861,
+        "radius": 25,
+        "start": 215
+      },
+      {
+        "latitude": -38.21525,
+        "longitude": 175.38408
+      },
+      {
+        "latitude": -38.14917,
+        "longitude": 175.41931
+      },
+      {
+        "latitude": -38.14389,
+        "longitude": 175.55028
+      },
+      {
+        "clockwise": false,
+        "end": 168,
+        "latitude": -38.10816,
+        "longitude": 176.31399,
+        "radius": 25,
+        "start": 249
+      },
+      {
+        "clockwise": false,
+        "end": 79,
+        "latitude": -38.10816,
+        "longitude": 176.31399,
+        "radius": 15,
+        "start": 168
+      },
+      {
+        "latitude": -37.97486,
+        "longitude": 176.59453
+      },
+      {
+        "latitude": -37.87878,
+        "longitude": 176.67058
+      },
+      {
+        "angle": 111,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 100
+      },
+      {
+        "latitude": -37.77733,
+        "longitude": 177.03803
+      }
+    ],
+    "id": "NZA438",
+    "lower": 6500,
+    "name": "Auckland",
+    "type": "CTA/D",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -43.73167,
+        "longitude": 172.58344
+      },
+      {
+        "clockwise": true,
+        "end": 266,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 30,
+        "start": 167
+      },
+      {
+        "clockwise": false,
+        "end": 199,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 20,
+        "start": 266
+      },
+      {
+        "latitude": -43.6605,
+        "longitude": 172.54794
+      },
+      {
+        "latitude": -43.56503,
+        "longitude": 172.62514
+      },
+      {
+        "latitude": -43.56167,
+        "longitude": 172.75013
+      },
+      {
+        "clockwise": false,
+        "end": 9,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 20,
+        "start": 70
+      },
+      {
+        "clockwise": true,
+        "end": 73,
+        "latitude": -43.50419,
+        "longitude": 172.51469,
+        "radius": 30,
+        "start": 8
+      }
+    ],
+    "id": "NZA845",
+    "lower": 3500,
+    "name": "Christchurch",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.39119,
+        "longitude": 175.31508
+      },
+      {
+        "latitude": -40.47603,
+        "longitude": 175.30856
+      },
+      {
+        "latitude": -40.54828,
+        "longitude": 175.26283
+      },
+      {
+        "latitude": -40.54828,
+        "longitude": 175.13044
+      },
+      {
+        "latitude": -40.39089,
+        "longitude": 175.09847
+      },
+      {
+        "latitude": -40.373708,
+        "longitude": 175.227274
+      }
+    ],
+    "id": "NZA337",
+    "lower": 2500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.28583,
+        "longitude": 175.77153
+      },
+      {
+        "latitude": -40.30389,
+        "longitude": 175.80656
+      },
+      {
+        "latitude": -40.31672,
+        "longitude": 175.81603
+      },
+      {
+        "latitude": -40.32278,
+        "longitude": 175.81167
+      },
+      {
+        "latitude": -40.32314,
+        "longitude": 175.78581
+      },
+      {
+        "latitude": -40.33922,
+        "longitude": 175.77553
+      },
+      {
+        "latitude": -40.34378,
+        "longitude": 175.74553
+      },
+      {
+        "latitude": -40.32753,
+        "longitude": 175.75894
+      }
+    ],
+    "id": "NZA336",
+    "lower": 1800,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.94842,
+        "longitude": 175.10822
+      },
+      {
+        "latitude": -41.03864,
+        "longitude": 175.10217
+      },
+      {
+        "latitude": -41.08972,
+        "longitude": 175.0975
+      },
+      {
+        "latitude": -41.03475,
+        "longitude": 174.93369
+      },
+      {
+        "angle": 10,
+        "latitude": -41.337222,
+        "longitude": 174.817222,
+        "radius": 25
+      },
+      {
+        "latitude": -40.9395,
+        "longitude": 174.99344
+      },
+      {
+        "latitude": -40.94094,
+        "longitude": 175.01183
+      }
+    ],
+    "id": "NZA638",
+    "lower": 3500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.71069,
+        "longitude": 175.27283
+      },
+      {
+        "latitude": -40.95189,
+        "longitude": 175.28239
+      },
+      {
+        "latitude": -41.18844,
+        "longitude": 175.31417
+      },
+      {
+        "latitude": -41.28669,
+        "longitude": 175.26831
+      },
+      {
+        "latitude": -41.25075,
+        "longitude": 175.21392
+      },
+      {
+        "latitude": -41.17536,
+        "longitude": 175.08733
+      },
+      {
+        "latitude": -41.13906,
+        "longitude": 175.09222
+      },
+      {
+        "latitude": -41.11883,
+        "longitude": 175.13653
+      },
+      {
+        "latitude": -41.10519,
+        "longitude": 175.17286
+      },
+      {
+        "latitude": -41.09828,
+        "longitude": 175.1835
+      },
+      {
+        "latitude": -41.08919,
+        "longitude": 175.20417
+      },
+      {
+        "latitude": -41.07889,
+        "longitude": 175.20217
+      },
+      {
+        "latitude": -41.05631,
+        "longitude": 175.19461
+      },
+      {
+        "latitude": -40.93253,
+        "longitude": 175.16222
+      },
+      {
+        "latitude": -40.84025,
+        "longitude": 175.17258
+      }
+    ],
+    "id": "NZA642",
+    "lower": 7500,
+    "name": "Wellington",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -44.44169,
+        "longitude": 169.53875
+      },
+      {
+        "latitude": -44.51853,
+        "longitude": 169.59283
+      },
+      {
+        "latitude": -44.69258,
+        "longitude": 169.14561
+      },
+      {
+        "latitude": -44.61353,
+        "longitude": 169.05178
+      },
+      {
+        "latitude": -44.75222,
+        "longitude": 168.73239
+      },
+      {
+        "latitude": -44.76778,
+        "longitude": 168.62258
+      },
+      {
+        "latitude": -44.63567,
+        "longitude": 168.46089
+      },
+      {
+        "latitude": -44.67711,
+        "longitude": 168.38492
+      },
+      {
+        "latitude": -44.81236,
+        "longitude": 168.49633
+      },
+      {
+        "latitude": -44.93606,
+        "longitude": 168.44153
+      },
+      {
+        "latitude": -44.93461,
+        "longitude": 168.36272
+      },
+      {
+        "latitude": -44.97092,
+        "longitude": 168.22744
+      },
+      {
+        "latitude": -44.93956,
+        "longitude": 168.09692
+      },
+      {
+        "latitude": -44.63289,
+        "longitude": 168.00178
+      },
+      {
+        "latitude": -44.46822,
+        "longitude": 167.83136
+      },
+      {
+        "latitude": -44.18575,
+        "longitude": 168.36475
+      },
+      {
+        "latitude": -44.54647,
+        "longitude": 169.16753
+      }
+    ],
+    "id": "NZA744",
+    "lower": 13500,
+    "name": "Queenstown",
+    "type": "CTA/C",
+    "upper": 17500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -43.4864,
+        "longitude": 172.72472
+      },
+      {
+        "latitude": -43.488579,
+        "longitude": 172.725505
+      },
+      {
+        "latitude": -43.490063,
+        "longitude": 172.725999
+      },
+      {
+        "latitude": -43.491545,
+        "longitude": 172.72643
+      },
+      {
+        "latitude": -43.492772,
+        "longitude": 172.726946
+      },
+      {
+        "latitude": -43.494436,
+        "longitude": 172.727501
+      },
+      {
+        "latitude": -43.495874,
+        "longitude": 172.727996
+      },
+      {
+        "latitude": -43.499566,
+        "longitude": 172.72925
+      },
+      {
+        "latitude": -43.504062,
+        "longitude": 172.730879
+      },
+      {
+        "latitude": -43.506309,
+        "longitude": 172.73166
+      },
+      {
+        "latitude": -43.506636,
+        "longitude": 172.731784
+      },
+      {
+        "latitude": -43.50832,
+        "longitude": 172.73242
+      },
+      {
+        "latitude": -43.511986,
+        "longitude": 172.733992
+      },
+      {
+        "latitude": -43.515693,
+        "longitude": 172.735312
+      },
+      {
+        "latitude": -43.517721,
+        "longitude": 172.736054
+      },
+      {
+        "latitude": -43.52093,
+        "longitude": 172.737395
+      },
+      {
+        "latitude": -43.522459,
+        "longitude": 172.738078
+      },
+      {
+        "latitude": -43.525123,
+        "longitude": 172.739151
+      },
+      {
+        "latitude": -43.527939,
+        "longitude": 172.740328
+      },
+      {
+        "latitude": -43.530603,
+        "longitude": 172.741505
+      },
+      {
+        "latitude": -43.532661,
+        "longitude": 172.742436
+      },
+      {
+        "latitude": -43.53519,
+        "longitude": 172.743615
+      },
+      {
+        "latitude": -43.537566,
+        "longitude": 172.744731
+      },
+      {
+        "latitude": -43.5402,
+        "longitude": 172.746014
+      },
+      {
+        "latitude": -43.541748,
+        "longitude": 172.746801
+      },
+      {
+        "latitude": -43.543292,
+        "longitude": 172.747587
+      },
+      {
+        "latitude": -43.545624,
+        "longitude": 172.748872
+      },
+      {
+        "latitude": -43.546649,
+        "longitude": 172.749595
+      },
+      {
+        "latitude": -43.547174,
+        "longitude": 172.749889
+      },
+      {
+        "latitude": -43.549373,
+        "longitude": 172.750777
+      },
+      {
+        "latitude": -43.551485,
+        "longitude": 172.751501
+      },
+      {
+        "latitude": -43.552368,
+        "longitude": 172.752011
+      },
+      {
+        "latitude": -43.552993,
+        "longitude": 172.75222
+      },
+      {
+        "latitude": -43.553035,
+        "longitude": 172.75222
+      },
+      {
+        "latitude": -43.55422,
+        "longitude": 172.752215
+      },
+      {
+        "latitude": -43.554327,
+        "longitude": 172.752249
+      },
+      {
+        "latitude": -43.554592,
+        "longitude": 172.752248
+      },
+      {
+        "latitude": -43.554824,
+        "longitude": 172.752337
+      },
+      {
+        "latitude": -43.555744,
+        "longitude": 172.752788
+      },
+      {
+        "latitude": -43.556437,
+        "longitude": 172.752882
+      },
+      {
+        "latitude": -43.557284,
+        "longitude": 172.752782
+      },
+      {
+        "latitude": -43.558322,
+        "longitude": 172.752488
+      },
+      {
+        "latitude": -43.558878,
+        "longitude": 172.75232
+      },
+      {
+        "latitude": -43.55896,
+        "longitude": 172.752273
+      },
+      {
+        "latitude": -43.558966,
+        "longitude": 172.752266
+      },
+      {
+        "latitude": -43.559027,
+        "longitude": 172.752196
+      },
+      {
+        "latitude": -43.559535,
+        "longitude": 172.751772
+      },
+      {
+        "latitude": -43.560462,
+        "longitude": 172.751407
+      },
+      {
+        "latitude": -43.56167,
+        "longitude": 172.75013
+      },
+      {
+        "latitude": -43.56503,
+        "longitude": 172.62514
+      },
+      {
+        "latitude": -43.55,
+        "longitude": 172.54806
+      },
+      {
+        "latitude": -43.52778,
+        "longitude": 172.545
+      },
+      {
+        "latitude": -43.50094,
+        "longitude": 172.55906
+      },
+      {
+        "latitude": -43.4845,
+        "longitude": 172.61636
+      }
+    ],
+    "id": "NZA841_S",
+    "lower": 1500,
+    "name": "Christchurch City Sector",
+    "type": "CTA/C",
+    "upper": 2500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -40.28583,
+        "longitude": 175.77153
+      },
+      {
+        "latitude": -40.32753,
+        "longitude": 175.75894
+      },
+      {
+        "latitude": -40.34378,
+        "longitude": 175.74553
+      },
+      {
+        "latitude": -40.37014,
+        "longitude": 175.72375
+      },
+      {
+        "latitude": -40.36903,
+        "longitude": 175.66203
+      },
+      {
+        "latitude": -40.42708,
+        "longitude": 175.58131
+      },
+      {
+        "latitude": -40.47603,
+        "longitude": 175.30856
+      },
+      {
+        "latitude": -40.39119,
+        "longitude": 175.31508
+      },
+      {
+        "latitude": -40.373708,
+        "longitude": 175.227274
+      },
+      {
+        "latitude": -40.39089,
+        "longitude": 175.09847
+      },
+      {
+        "clockwise": true,
+        "end": 339,
+        "latitude": -40.20961,
+        "longitude": 175.39196,
+        "radius": 15,
+        "start": 262
+      },
+      {
+        "latitude": -39.978786,
+        "longitude": 175.276861
+      },
+      {
+        "latitude": -39.980516,
+        "longitude": 175.280337
+      },
+      {
+        "latitude": -39.981763,
+        "longitude": 175.282846
+      },
+      {
+        "latitude": -39.98387,
+        "longitude": 175.28679
+      },
+      {
+        "latitude": -39.98594,
+        "longitude": 175.29067
+      },
+      {
+        "latitude": -39.988479,
+        "longitude": 175.294264
+      },
+      {
+        "latitude": -39.99143,
+        "longitude": 175.297196
+      },
+      {
+        "latitude": -39.994035,
+        "longitude": 175.300439
+      },
+      {
+        "latitude": -39.997185,
+        "longitude": 175.304365
+      },
+      {
+        "latitude": -40.001384,
+        "longitude": 175.310143
+      },
+      {
+        "latitude": -40.003596,
+        "longitude": 175.314031
+      },
+      {
+        "latitude": -40.005591,
+        "longitude": 175.317536
+      },
+      {
+        "latitude": -40.007298,
+        "longitude": 175.321858
+      },
+      {
+        "latitude": -40.008399,
+        "longitude": 175.325673
+      },
+      {
+        "latitude": -40.009441,
+        "longitude": 175.32928
+      },
+      {
+        "latitude": -40.010713,
+        "longitude": 175.332727
+      },
+      {
+        "latitude": -40.012631,
+        "longitude": 175.337928
+      },
+      {
+        "latitude": -40.01404,
+        "longitude": 175.341743
+      },
+      {
+        "latitude": -40.016314,
+        "longitude": 175.347526
+      },
+      {
+        "latitude": -40.018179,
+        "longitude": 175.351699
+      },
+      {
+        "latitude": -40.020468,
+        "longitude": 175.356825
+      },
+      {
+        "latitude": -40.022651,
+        "longitude": 175.361716
+      },
+      {
+        "latitude": -40.024764,
+        "longitude": 175.365756
+      },
+      {
+        "latitude": -40.02533,
+        "longitude": 175.36675
+      },
+      {
+        "latitude": -40.13819,
+        "longitude": 175.66061
+      },
+      {
+        "latitude": -40.27911,
+        "longitude": 175.75658
+      }
+    ],
+    "id": "NZA335",
+    "lower": 1500,
+    "name": "Ohakea",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "clockwise": true,
+        "end": 272,
+        "latitude": -37.00453,
+        "longitude": 174.81372,
+        "radius": 25,
+        "start": 113
+      },
+      {
+        "clockwise": true,
+        "end": 78,
+        "latitude": -36.790616,
+        "longitude": 174.626562,
+        "radius": 20,
+        "start": 234
+      },
+      {
+        "clockwise": true,
+        "end": 91,
+        "latitude": -37.003195,
+        "longitude": 174.812037,
+        "radius": 20,
+        "start": 33
+      },
+      {
+        "latitude": -37.08622,
+        "longitude": 175.15464
+      },
+      {
+        "latitude": -37.11681,
+        "longitude": 175.21139
+      }
+    ],
+    "id": "NZA142",
+    "lower": 2500,
+    "name": "Auckland",
+    "type": "CTA/C",
+    "upper": 9500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -44.93164,
+        "longitude": 169.13019
+      },
+      {
+        "latitude": -45.01747,
+        "longitude": 169.12633
+      },
+      {
+        "latitude": -45.07336,
+        "longitude": 169.09833
+      },
+      {
+        "latitude": -45.07928,
+        "longitude": 169.02225
+      },
+      {
+        "latitude": -45.07511,
+        "longitude": 169.0025
+      },
+      {
+        "latitude": -45.04644,
+        "longitude": 168.86636
+      },
+      {
+        "latitude": -45.04344,
+        "longitude": 168.83425
+      },
+      {
+        "latitude": -45.05458,
+        "longitude": 168.80258
+      },
+      {
+        "latitude": -45.15689,
+        "longitude": 168.79233
+      },
+      {
+        "latitude": -45.2155,
+        "longitude": 168.78647
+      },
+      {
+        "latitude": -45.29756,
+        "longitude": 168.78192
+      },
+      {
+        "latitude": -45.31119,
+        "longitude": 168.56639
+      },
+      {
+        "latitude": -45.22186,
+        "longitude": 168.30967
+      },
+      {
+        "latitude": -45.20372,
+        "longitude": 168.25667
+      },
+      {
+        "latitude": -45.16872,
+        "longitude": 168.23322
+      },
+      {
+        "latitude": -45.14469,
+        "longitude": 168.21711
+      },
+      {
+        "latitude": -45.0875,
+        "longitude": 168.17639
+      },
+      {
+        "latitude": -45.00614,
+        "longitude": 168.22075
+      },
+      {
+        "latitude": -45.00031,
+        "longitude": 168.56756
+      },
+      {
+        "latitude": -44.96375,
+        "longitude": 168.65089
+      },
+      {
+        "latitude": -44.92619,
+        "longitude": 168.72586
+      },
+      {
+        "latitude": -44.91581,
+        "longitude": 168.73972
+      },
+      {
+        "latitude": -44.86908,
+        "longitude": 168.80794
+      },
+      {
+        "latitude": -44.87583,
+        "longitude": 168.96186
+      },
+      {
+        "latitude": -44.91978,
+        "longitude": 168.94275
+      },
+      {
+        "latitude": -44.93225,
+        "longitude": 169.0115
+      },
+      {
+        "latitude": -44.92764,
+        "longitude": 169.0515
+      }
+    ],
+    "id": "NZA731",
+    "lower": 7500,
+    "name": "Queenstown",
+    "type": "CTA/C",
+    "upper": 17500
+  },
+  {
+    "boundary": [
+      {
+        "latitude": -41.5,
+        "longitude": 174.13333
+      },
+      {
+        "latitude": -41.55803,
+        "longitude": 174.14711
+      },
+      {
+        "latitude": -41.57378,
+        "longitude": 174.14839
+      },
+      {
+        "latitude": -41.60692,
+        "longitude": 174.166
+      },
+      {
+        "latitude": -41.60808,
+        "longitude": 174.05381
+      },
+      {
+        "latitude": -41.61575,
+        "longitude": 173.81614
+      },
+      {
+        "latitude": -41.62567,
+        "longitude": 173.50761
+      },
+      {
+        "latitude": -41.53528,
+        "longitude": 173.49311
+      },
+      {
+        "latitude": -41.477,
+        "longitude": 173.57083
+      },
+      {
+        "latitude": -41.44697,
+        "longitude": 173.60314
+      },
+      {
+        "latitude": -41.45128,
+        "longitude": 173.71958
+      },
+      {
+        "latitude": -41.45053,
+        "longitude": 173.77739
+      },
+      {
+        "latitude": -41.43956,
+        "longitude": 173.965
+      },
+      {
+        "latitude": -41.44022,
+        "longitude": 174.02933
+      }
+    ],
+    "id": "NZA631",
+    "lower": 3500,
+    "name": "Woodbourne",
+    "type": "CTA/D",
+    "upper": 9500
+  }
+]
