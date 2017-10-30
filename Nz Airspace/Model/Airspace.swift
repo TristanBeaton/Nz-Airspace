@@ -38,9 +38,10 @@ class Airspace : NSObject, MKOverlay, Decodable {
     
     var color: UIColor {
         switch type.components(separatedBy: "/")[0] {
-        case "CTA": return UIColor(red: 129/255, green: 044/255, blue: 124/255, alpha: 1.0)
-        case "CTR": return UIColor(red: 000/255, green: 103/255, blue: 165/255, alpha: 1.0)
-        default: return .black
+            case "CTA": return UIColor(red: 129/255, green: 044/255, blue: 124/255, alpha: 1.0)
+            case "CTR": return UIColor(red: 000/255, green: 103/255, blue: 165/255, alpha: 1.0)
+            case "QNH": return .yellow
+            default: return .black
         }
     }
     
@@ -101,7 +102,7 @@ class Airspace : NSObject, MKOverlay, Decodable {
         self.type = try container.decode(String.self, forKey: .type)
         self.discriptors = try container.decode([PathDescription].self, forKey: .boundary)
         self.boundary = Array<MKMapPoint>()
-        // Initialise superclasses
+        // Initialise Superclass
         super.init()
         // Calculate boundary
         for descriptor in self.discriptors {
@@ -111,7 +112,7 @@ class Airspace : NSObject, MKOverlay, Decodable {
                 var r = MKMapPointsPerMeterAtLatitude(center.latitude) * radius * 1852
                 var mp = MKMapPointMake(r * cos(Double(angle - 90) * .pi / 180.0) + centerMP.x, r * sin(Double(angle - 90) * .pi / 180.0) + centerMP.y)
                 var distance = MKMetersBetweenMapPoints(centerMP, mp)
-                
+                // This is just for more accuracy. Currently it is the nearest metre.
                 while Int(round(distance)) != Int(round(radius * 1852)) {
                     r = radius * 1852 / distance * r
                     mp.x = r * cos(Double(angle - 90) * .pi / 180.0) + centerMP.x

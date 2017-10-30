@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD2AA9EA1F99E35C00164FC3 /* AirspaceCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2AA9E91F99E35C00164FC3 /* AirspaceCell.swift */; };
+		FD2AA9EF1F99E3B300164FC3 /* Quicksand-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD2AA9EB1F99E3B300164FC3 /* Quicksand-Light.ttf */; };
+		FD2AA9F01F99E3B300164FC3 /* Quicksand-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD2AA9EC1F99E3B300164FC3 /* Quicksand-Medium.ttf */; };
+		FD2AA9F11F99E3B300164FC3 /* Quicksand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD2AA9ED1F99E3B300164FC3 /* Quicksand-Regular.ttf */; };
+		FD2AA9F21F99E3B300164FC3 /* Quicksand-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD2AA9EE1F99E3B300164FC3 /* Quicksand-Bold.ttf */; };
+		FD2AA9F61F99E50200164FC3 /* AirspaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2AA9F51F99E50200164FC3 /* AirspaceViewController.swift */; };
+		FD4B839B1FA7158200ACC7AF /* qnh.json in Resources */ = {isa = PBXBuildFile; fileRef = FD4B839A1FA7158200ACC7AF /* qnh.json */; };
 		FD4E37241F9949DB00749358 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4E37231F9949DB00749358 /* AppDelegate.swift */; };
 		FD4E37261F9949DB00749358 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4E37251F9949DB00749358 /* ViewController.swift */; };
 		FD4E37291F9949DB00749358 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD4E37271F9949DB00749358 /* Main.storyboard */; };
@@ -18,6 +25,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD2AA9E91F99E35C00164FC3 /* AirspaceCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirspaceCell.swift; sourceTree = "<group>"; };
+		FD2AA9EB1F99E3B300164FC3 /* Quicksand-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Quicksand-Light.ttf"; sourceTree = "<group>"; };
+		FD2AA9EC1F99E3B300164FC3 /* Quicksand-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Quicksand-Medium.ttf"; sourceTree = "<group>"; };
+		FD2AA9ED1F99E3B300164FC3 /* Quicksand-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Quicksand-Regular.ttf"; sourceTree = "<group>"; };
+		FD2AA9EE1F99E3B300164FC3 /* Quicksand-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Quicksand-Bold.ttf"; sourceTree = "<group>"; };
+		FD2AA9F51F99E50200164FC3 /* AirspaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirspaceViewController.swift; sourceTree = "<group>"; };
+		FD4B839A1FA7158200ACC7AF /* qnh.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = qnh.json; sourceTree = "<group>"; };
 		FD4E37201F9949DB00749358 /* Nz Airspace.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nz Airspace.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD4E37231F9949DB00749358 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FD4E37251F9949DB00749358 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -41,6 +55,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FD2AA9F31F99E3B700164FC3 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FD2AA9EE1F99E3B300164FC3 /* Quicksand-Bold.ttf */,
+				FD2AA9EB1F99E3B300164FC3 /* Quicksand-Light.ttf */,
+				FD2AA9EC1F99E3B300164FC3 /* Quicksand-Medium.ttf */,
+				FD2AA9ED1F99E3B300164FC3 /* Quicksand-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		FD2AA9F41F99E47500164FC3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FD2AA9E91F99E35C00164FC3 /* AirspaceCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		FD4E37171F9949DB00749358 = {
 			isa = PBXGroup;
 			children = (
@@ -63,6 +96,7 @@
 				FD4E37231F9949DB00749358 /* AppDelegate.swift */,
 				FD4E37271F9949DB00749358 /* Main.storyboard */,
 				FD4E37381F994B3700749358 /* Model */,
+				FD2AA9F41F99E47500164FC3 /* View */,
 				FDCEEEB41F99A37900B6C6DC /* Controller */,
 				FD4E37351F994B0D00749358 /* Supporting Files */,
 			);
@@ -73,9 +107,11 @@
 			isa = PBXGroup;
 			children = (
 				FD4E37391F994BE900749358 /* airspace.json */,
+				FD4B839A1FA7158200ACC7AF /* qnh.json */,
 				FD4E372A1F9949DB00749358 /* Assets.xcassets */,
 				FD4E372C1F9949DB00749358 /* LaunchScreen.storyboard */,
 				FD4E372F1F9949DB00749358 /* Info.plist */,
+				FD2AA9F31F99E3B700164FC3 /* Fonts */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -93,6 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				FD4E37251F9949DB00749358 /* ViewController.swift */,
+				FD2AA9F51F99E50200164FC3 /* AirspaceViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -158,8 +195,13 @@
 			files = (
 				FD4E372E1F9949DB00749358 /* LaunchScreen.storyboard in Resources */,
 				FD4E373A1F994BE900749358 /* airspace.json in Resources */,
+				FD2AA9F11F99E3B300164FC3 /* Quicksand-Regular.ttf in Resources */,
 				FD4E372B1F9949DB00749358 /* Assets.xcassets in Resources */,
 				FD4E37291F9949DB00749358 /* Main.storyboard in Resources */,
+				FD2AA9EF1F99E3B300164FC3 /* Quicksand-Light.ttf in Resources */,
+				FD2AA9F01F99E3B300164FC3 /* Quicksand-Medium.ttf in Resources */,
+				FD4B839B1FA7158200ACC7AF /* qnh.json in Resources */,
+				FD2AA9F21F99E3B300164FC3 /* Quicksand-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -173,6 +215,8 @@
 				FDCEEEB31F9995D600B6C6DC /* AirspaceRenderer.swift in Sources */,
 				FD4E37261F9949DB00749358 /* ViewController.swift in Sources */,
 				FD4E37241F9949DB00749358 /* AppDelegate.swift in Sources */,
+				FD2AA9EA1F99E35C00164FC3 /* AirspaceCell.swift in Sources */,
+				FD2AA9F61F99E50200164FC3 /* AirspaceViewController.swift in Sources */,
 				FDCEEEB11F9964D300B6C6DC /* Airspace.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -313,6 +357,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Q628MNEAGU;
 				INFOPLIST_FILE = "Nz Airspace/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nz.tristanbeaton.Nz-Airspace";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -328,6 +373,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Q628MNEAGU;
 				INFOPLIST_FILE = "Nz Airspace/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nz.tristanbeaton.Nz-Airspace";
 				PRODUCT_NAME = "$(TARGET_NAME)";
