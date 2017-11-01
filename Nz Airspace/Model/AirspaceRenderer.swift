@@ -11,6 +11,8 @@ import MapKit
 
 class AirspaceRenderer: MKOverlayPathRenderer {
     
+    var showBounds = false
+    
     override func createPath() {
         let path = CGMutablePath()
         if let airspace = self.overlay as? Airspace {
@@ -23,13 +25,16 @@ class AirspaceRenderer: MKOverlayPathRenderer {
             }
             path.closeSubpath()
         }
-            
-//        let rect = self.overlay.boundingMapRect
-//        path.move(to: point(for: rect.topLeft))
-//        path.addLine(to: point(for: rect.topRight))
-//        path.addLine(to: point(for: rect.bottomRight))
-//        path.addLine(to: point(for: rect.bottomLeft))
-//        path.closeSubpath()
+        
+        if showBounds {
+            let rect = self.overlay.boundingMapRect
+            path.move(to: point(for: rect.topLeft))
+            path.addLine(to: point(for: rect.topRight))
+            path.addLine(to: point(for: rect.bottomRight))
+            path.addLine(to: point(for: rect.bottomLeft))
+            path.closeSubpath()
+
+        }
         
         self.path = path
     }
