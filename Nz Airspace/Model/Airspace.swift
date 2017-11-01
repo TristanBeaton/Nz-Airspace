@@ -11,14 +11,19 @@ import MapKit
 
 class Airspace : NSObject, MKOverlay, Codable {
     
+    #if os(OSX)
+    typealias Color = NSColor
+    #else
+    typealias Color = UIColor
+    #endif
     // Properties
-    var id: String
-    var name: String
-    var lower: Int
-    var upper: Int
-    var type: String
-    var discriptors: Array<PathDescription>
-    var boundary: Array<MKMapPoint>
+    private(set) var id: String
+    private(set) var name: String
+    private(set) var lower: Int
+    private(set) var upper: Int
+    private(set) var type: String
+    private(set) var discriptors: Array<PathDescription>
+    private(set) var boundary: Array<MKMapPoint>
     
     // MKOverlay Properties
     var boundingMapRect: MKMapRect {
@@ -38,13 +43,19 @@ class Airspace : NSObject, MKOverlay, Codable {
         return MKCoordinateForMapPoint(MKMapPointMake(MKMapRectGetMidX(boundingMapRect), MKMapRectGetMidY(boundingMapRect)))
     }
     
+    override var description: String {
+        return "Airspace(id: \(id), name: \(name), lower: \(lower), upper: \(upper), type: \(type))"
+    }
+    
     // Default Color
-    var color: UIColor {
+    var color: Color {
         switch type.components(separatedBy: "/")[0] {
-            case "CTA": return UIColor(red: 129/255, green: 044/255, blue: 124/255, alpha: 1.0)
-            case "CTR": return UIColor(red: 000/255, green: 103/255, blue: 165/255, alpha: 1.0)
-            case "QNH": return .yellow
-            default: return .black
+        case "CTA": return Color(red: 129/255, green: 044/255, blue: 124/255, alpha: 1.0)
+        case "CTR": return Color(red: 000/255, green: 103/255, blue: 165/255, alpha: 1.0)
+        case "T": return Color(red: 119/255, green: 166/255, blue: 205/255, alpha: 1.0)
+        case "D": return Color(red: 216/255, green: 035/255, blue: 042/255, alpha: 1.0)
+        case "QNH": return .yellow
+        default: return .black
         }
     }
     
@@ -172,9 +183,9 @@ class Airspace : NSObject, MKOverlay, Codable {
                 let tD = distance(tommorow)
                 // Add the closest point based on distance
                 switch min(pD, yD, tD) {
-                    case yD: self.boundary.append(yesterday)
-                    case tD: self.boundary.append(tommorow)
-                    default: self.boundary.append(point)
+                case yD: self.boundary.append(yesterday)
+                case tD: self.boundary.append(tommorow)
+                default: self.boundary.append(point)
                 }
             }
             // Build Path
