@@ -47,7 +47,7 @@ extension ViewController : MKMapViewDelegate {
     func mapView(_ mapView: MKMapView, rendererFor overlay: MKOverlay) -> MKOverlayRenderer {
         if let airspace = overlay as? Airspace {
             let renderer = AirspaceRenderer(overlay: airspace)
-//            renderer.showBounds = true
+            renderer.showBounds = false
             renderer.strokeColor = airspace.color
             renderer.fillColor = airspace.color.withAlphaComponent(0.1)
             renderer.lineWidth = 0

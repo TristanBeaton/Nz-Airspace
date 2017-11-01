@@ -33,7 +33,6 @@ class AirspaceRenderer: MKOverlayPathRenderer {
             path.addLine(to: point(for: rect.bottomRight))
             path.addLine(to: point(for: rect.bottomLeft))
             path.closeSubpath()
-
         }
         
         self.path = path
