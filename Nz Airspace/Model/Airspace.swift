@@ -16,6 +16,7 @@ class Airspace : NSObject, MKOverlay, Codable {
     #else
     typealias Color = UIColor
     #endif
+    
     // Properties
     private(set) var id: String
     private(set) var name: String
@@ -50,12 +51,12 @@ class Airspace : NSObject, MKOverlay, Codable {
     // Default Color
     var color: Color {
         switch type.components(separatedBy: "/")[0] {
-        case "CTA": return Color(red: 129/255, green: 044/255, blue: 124/255, alpha: 1.0)
-        case "CTR": return Color(red: 000/255, green: 103/255, blue: 165/255, alpha: 1.0)
-        case "T": return Color(red: 119/255, green: 166/255, blue: 205/255, alpha: 1.0)
-        case "D": return Color(red: 216/255, green: 035/255, blue: 042/255, alpha: 1.0)
-        case "QNH": return .yellow
-        default: return .black
+            case "CTA": return Color(red: 129/255, green: 044/255, blue: 124/255, alpha: 1.0)
+            case "CTR": return Color(red: 000/255, green: 103/255, blue: 165/255, alpha: 1.0)
+            case "T": return Color(red: 119/255, green: 166/255, blue: 205/255, alpha: 1.0)
+            case "D": return Color(red: 216/255, green: 035/255, blue: 042/255, alpha: 1.0)
+            case "QNH": return .yellow
+            default: return .black
         }
     }
     
