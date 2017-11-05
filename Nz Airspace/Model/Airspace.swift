@@ -61,7 +61,6 @@ class Airspace : NSObject, MKOverlay, Codable {
     }
     
     // MARK: - Initialise
-    
     init(id:String, name:String, type:String, lower:Int, upper:Int) {
         self.id = id
         self.name = name
